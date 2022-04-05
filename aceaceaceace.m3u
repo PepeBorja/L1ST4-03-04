@@ -6,7 +6,7 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos HD (2)
 acestream://2dbea1288c3bad4a8faab395249fb5e5edfde4b6
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png", VAMOS SD
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",VAMOS SD
 acestream://0fdcd632dc776bc44ab2f474a6d079820d80132f
 
 #EXTINF:-1 tvg-chno="4" tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar HD
