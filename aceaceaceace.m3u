@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz"
 
 #EXTINF:-1 tvg-chno="1" tvg-id="Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos HD
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
