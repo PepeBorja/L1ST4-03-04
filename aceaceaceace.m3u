@@ -27,13 +27,13 @@ acestream://47dff1159f1d08599703f5a9d409574571e53686
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga 720
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 
-#EXTINF:-1 tvg-id="M. LaLiga 1 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%201%20HD.png",M. LaLiga 1 HD
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%201%20HD.png",M. LaLiga 1 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 
-#EXTINF:-1 tvg-id="M. LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%202%20HD.png",M. LaLiga 2 HD
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%202%20HD.png",M. LaLiga 2 1080
 acestream://ed147166c7df93f7aecba44d4e2fc9383d028218
 
-#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%202%20HD.png",M. LaLiga 3 HD
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%202%20HD.png",M. LaLiga 3 1080
 acestream://e693d6b35ee9dc2c6a0d0593edec281268e79440
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones 1080 Multiaudio
@@ -95,3 +95,15 @@ acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
 
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%204%20HD.png",DAZN 4 1080
 acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
+
+#EXTINF:-1 tvg-id="M. Golf" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Golf%20HD.png",M. Golf 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%201%20HD.png",SPORTV 1
+acestream://304f4331286501c5a373a71391b8225900ff7849
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%202%20HD.png",SPORTV 2
+acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%203%20HD.png",SPORTV 3
+acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
