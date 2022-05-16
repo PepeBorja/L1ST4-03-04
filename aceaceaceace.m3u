@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
-acestream://afef0afc68f295aa6af596dcb8a6abb9e7a00023
+acestream://754ce93833e54f8858eb496dbbb61dbe054bf7a2
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 2
-acestream://dd41290b664a6f2f26efdcc8f8d1da284c77958c
+acestream://bd6df29fb65294af29687aa6880ad4307ead4694
 
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
