@@ -66,8 +66,14 @@ acestream://a88195215f9b6e38bf6363d28bfe84000a12d46a
 #EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Eurosport%201%20HD.png",Eurosport 1
 acestream://36930ae99889bb571389e5eb5557e3d8ab2b1fda
 
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Eurosport%201%20HD.png",Eurosport 1 (alternativo)
+acestream://40da37534656efcc6179c1b7693335d5e8212e43
+
 #EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Eurosport%202.png",Eurosport 2
 acestream://f2c46015fab59944d1f75487fe1ec725f9d74720
+
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Eurosport%202.png",Eurosport 2 (alternativo)
+acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20F1%20HD.png",DAZN F1
 acestream://c372020ed2744033f56548b6beb11a9f3e740f37
