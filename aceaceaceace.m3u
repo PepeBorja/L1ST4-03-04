@@ -104,3 +104,11 @@ acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%203%20HD.png",SPORTV 3
 acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
+
+#EXTINF:-1 tvg-id="obiwan1" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/logo-StarWars.png",Obi-Wan Kenobi 1x01
+acestream://a25326fe3dcd88993e91dfa6bcd003ea8dfc855b
+
+#EXTINF:-1 tvg-id="obiwan1" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/logo-StarWars.png",Obi-Wan Kenobi 1x02
+acestream://17661bea94a478ff4b5157699fdb08abe962fa7a
+
+
