@@ -48,6 +48,9 @@ acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones Multiaudio
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones 720
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%201%20HD.png",M. Liga de Campeones 1
 acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
 
@@ -73,13 +76,13 @@ acestream://85bd65161dfd8c4033194da3c978c0450c9111db
 acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%204.png",M. Deportes 4
-acestream://478833f6390f04e95c6d94180a784b78ad540d2f
+acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%205.png",M. Deportes 5
-acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+acestream://478833f6390f04e95c6d94180a784b78ad540d2f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%206.png",M. Deportes 6
-acestream://b779e6056975e3682a804d47cbd5cc806217f64d
+acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 
 #EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Eurosport%201%20HD.png",Eurosport 1
 acestream://40da37534656efcc6179c1b7693335d5e8212e43
@@ -112,7 +115,7 @@ acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%203%20HD.png",SPORTV 3
-acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
+acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/La%201.png",La 1
 acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
@@ -121,7 +124,7 @@ acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Cuatro.png",Cuatro
-acestream://36e777b34e35460f4fd72d9583a2f8c0598d7ec2
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 
 #EXTINF:-1 tvg-id="Gol TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol.png",Gol TV
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
