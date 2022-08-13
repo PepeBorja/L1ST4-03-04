@@ -27,6 +27,9 @@ acestream://d5c864a71052159a3dc86d040023bcdb7b736ad0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga Multiaudio
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga 720
+acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png", LaLiga SmartBank
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 
