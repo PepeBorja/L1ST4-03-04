@@ -27,27 +27,6 @@ acestream://d5c864a71052159a3dc86d040023bcdb7b736ad0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 
-#EXTINF:-1 tvg-id="M. LaLiga 1 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%201%20HD.png",M. LaLiga 1
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-
-#EXTINF:-1 tvg-id="M. LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%202%20HD.png",M. LaLiga 2
-acestream://ed147166c7df93f7aecba44d4e2fc9383d028218
-
-#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%203.png",M. LaLiga 3
-acestream://2075cf1c981654a5772d8508ecce044375d9ba38
-
-#EXTINF:-1 tvg-id="M. LaLiga 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%204.png",M. LaLiga 4
-acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a
-
-#EXTINF:-1 tvg-id="M. LaLiga 5 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%205.png",M. LaLiga 5
-acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c
-
-#EXTINF:-1 tvg-id="M. LaLiga 6 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%206.png",M. LaLiga 6
-acestream://8021cba61d1e0891a41a6c3334f947360000dc8e
-
-#EXTINF:-1 tvg-id="M. LaLiga 7 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%207.png",M. LaLiga 7
-acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png", LaLiga SmartBank
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 
