@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
-acestream://a4113d02181208770ad03c1113f0d2381a018e3c
+acestream://ba248210b26507ce559562176509ea76c2839153
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 2
 acestream://0beda058ee99f190ec684e2f7a203c81d799b032
