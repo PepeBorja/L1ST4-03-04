@@ -1,13 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
-acestream://ba248210b26507ce559562176509ea76c2839153
-
-#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 2
-acestream://0beda058ee99f190ec684e2f7a203c81d799b032
-
-#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 3
-acestream://5724ee11a1afbfc3fe647541012e61b276ff0801
+#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento
+acestream://738e1db1791e44c62e87b8b1d8a3623bc7579c1c
 
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png",#0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
