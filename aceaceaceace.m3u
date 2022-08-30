@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento
-acestream://738e1db1791e44c62e87b8b1d8a3623bc7579c1c
+#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
+acestream://6b669ffeb7d775564ef56bcc8ded248c4e7f39e8
+
+#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 2
+acestream://8d3509c8684bac14a502cc976fd520478d63cf97
 
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png",#0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
@@ -84,11 +87,23 @@ acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20F1%20HD.png",DAZN F1
 acestream://c372020ed2744033f56548b6beb11a9f3e740f37
 
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20F1%20HD.png",DAZN F1 alternativo
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20F1%20HD.png",DAZN F1 720
+acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
+
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%201%20HD.png",DAZN 1
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%201%20HD.png",DAZN 1 720
+acestream://84af46abab9de02bdd22818747738cfa5438132e
+
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%202%20HD.png",DAZN 2
 acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e
+
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%202%20HD.png",DAZN 2 720
+acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
 
 #EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%203%20HD.png",DAZN 3
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
@@ -99,13 +114,13 @@ acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Golf%20HD.png",M. Golf
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-1 tvg-id="SPORTV 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%201%20HD.png",SPORTV 1
+#EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%201%20HD.png",SPORTV 1
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%202%20HD.png",SPORTV 2
+#EXTINF:-1 tvg-id="Sport TV2 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%202%20HD.png",SPORTV 2
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%203%20HD.png",SPORTV 3
+#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%203%20HD.png",SPORTV 3
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/La%201.png",La 1
@@ -119,3 +134,8 @@ acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol.png",Gol TV
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
+
+#EXTINF:-1 tvg-id="Barça TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Bar%C3%A7a%20TV.png",Barça TV
+acestream://65c141632af256d70da66c767ba74360042b4396
+
+
