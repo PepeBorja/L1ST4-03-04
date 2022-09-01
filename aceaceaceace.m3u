@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/dracohe/INTERNACIONALES/master/guide.xml"
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
 acestream://6b669ffeb7d775564ef56bcc8ded248c4e7f39e8
@@ -138,4 +138,11 @@ acestream://49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 tvg-id="Barça TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Bar%C3%A7a%20TV.png",Barça TV
 acestream://65c141632af256d70da66c767ba74360042b4396
 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg",ESPN 2
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
+acestream://b97f5975dbd067655432512d4693b417bc85a714
