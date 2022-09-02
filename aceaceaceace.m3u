@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/dracohe/INTERNACIONALES/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
 acestream://6b669ffeb7d775564ef56bcc8ded248c4e7f39e8
