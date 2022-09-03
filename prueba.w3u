@@ -1,0 +1,52 @@
+{
+    "name": "Canales Acestream 02/09/2022 09:16:43",
+    "author": "Vila",
+    "info": "Canales extraidos de Telegram",
+    "url": "https://raw.githubusercontent.com/jmvilarinho/ace/main/listaPersonal.w3u",
+    "image": "https://raw.githubusercontent.com/jmvilarinho/ace/main/vila.png",
+    "epg": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml",
+    "groups": [
+        {
+            "name": "Deportes",
+            "image": "",
+            "stations": [
+                {
+                    "name": "Evento del Momento 1",
+                    "url": "acestream://6b669ffeb7d775564ef56bcc8ded248c4e7f39e8",
+                    "image": "https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",
+                    "embed": "false"
+                },
+                {
+                    "name": "Evento del Momento 2",
+                    "url": "acestream://8d3509c8684bac14a502cc976fd520478d63cf97",
+                    "image": "hhttps://cdn.digitbin.com/wp-content/uploads/Live-TV.png",
+                    "embed": "false"
+                },
+                {
+                    "name": "#0",
+                    "url": "acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2",
+                    "image": "https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png",
+                    "embed": "false"
+                },
+                {
+                    "name": "Vamos",
+                    "url": "acestream://069431a1199eb2545a14c0a724095e57bdc58e9c",
+                    "image": "https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",
+                    "embed": "false"
+                },
+                {
+                    "name": "M. LaLiga Multiaudio",
+                    "url": "acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175",
+                    "image": "https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",
+                    "embed": "false"
+                },
+                {
+                    "name": "LaLiga TV Bar",
+                    "url": "acestream://01b333b9369c662775902638ef8cffac346a0f61",
+                    "image": "https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",
+                    "embed": "false"
+                }
+            ]
+        }
+    ]
+}
