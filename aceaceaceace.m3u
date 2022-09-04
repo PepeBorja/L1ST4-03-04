@@ -39,6 +39,9 @@ acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank 720
 acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%202.png",LaLiga SmartBank 2
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones Multiaudio
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
 
