@@ -60,26 +60,29 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%20HD.png",M. Deportes
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes.png",M. Deportes
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
 
-#EXTINF:-1 tvg-id="M+ Deportes 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%201%20HD.png",M. Deportes 1
+#EXTINF:-1 tvg-id="M+ Deportes 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%201.png",M. Deportes 1
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%202.png",M. Deportes 2
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%202.png",M. Deportes 2
+acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%203.png",M. Deportes 3
 acestream://85bd65161dfd8c4033194da3c978c0450c9111db
 
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%203.png",M. Deportes 3
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%204.png",M. Deportes 4
 acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
 
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%204.png",M. Deportes 4
-acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
-
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%205.png",M. Deportes 5
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%205.png",M. Deportes 5
 acestream://478833f6390f04e95c6d94180a784b78ad540d2f
 
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%206.png",M. Deportes 6
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%207.png",M. Deportes 7
 acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+
+#EXTINF:-1 tvg-id="M+ Deportes 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI9.png",M. Deportes 8
+acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 
 #EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Eurosport%201%20HD.png",Eurosport 1
 acestream://40da37534656efcc6179c1b7693335d5e8212e43
