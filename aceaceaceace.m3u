@@ -63,9 +63,6 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes.png",M. Deportes
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
 
-#EXTINF:-1 tvg-id="M+ Deportes 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%201.png",M. Deportes 1
-acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
-
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%202.png",M. Deportes 2
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 
