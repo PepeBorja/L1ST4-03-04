@@ -6,12 +6,6 @@ acestream://6b669ffeb7d775564ef56bcc8ded248c4e7f39e8
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 2
 acestream://8d3509c8684bac14a502cc976fd520478d63cf97
 
-#EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png",#0
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-
-#EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos
-acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
-
 #EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
@@ -59,6 +53,12 @@ acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png",M. Liga de Campeones 5
 acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
+
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png",#0
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Deportes%20HD.png",M. Deportes
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
