@@ -176,3 +176,9 @@ acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 
 #EXTINF:-1 tvg-id="DirecTV Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png",DirecTV Ecuador
 acestream://f3f14b89eb62839f97153593432370b5bd61a5df
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/National%20Geographic.png",National Geographic
+acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+
+#EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Historia.png",Canal Historia
+acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
