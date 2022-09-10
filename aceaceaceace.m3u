@@ -147,6 +147,9 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Cuatro.png",Cuatro
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 
+#EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Be%20Mad.png",BE MAD
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol.png",Gol TV
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
 
