@@ -21,6 +21,9 @@ acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga Multiaudio
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 
@@ -75,8 +78,14 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
+#EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/%23Vamos%20HD.png",Vamos 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes.png",M. Deportes
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes.png",M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Deportes%202.png",M. Deportes 2
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
