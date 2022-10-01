@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
-acestream://69539c018423fb4014ab29cef683f32d3374fd94
+acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
 
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 2
-acestream://7e86f47e34131642e163e8ef8ce93e65ae9288bd
+acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 
 #EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar
 acestream://01b333b9369c662775902638ef8cffac346a0f61
