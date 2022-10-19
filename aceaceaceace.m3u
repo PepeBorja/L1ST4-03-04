@@ -15,9 +15,6 @@ acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio 4k 50fps Prueba
-acestream://684e5c085484e8ea79858713eeb7a3668baca29e
-
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga 720
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 
@@ -36,6 +33,9 @@ acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga 720
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%202.png",DAZN LaLiga 2
+acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 
@@ -50,9 +50,6 @@ acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones 4k Prueba
-acestream://109c70ce6abc73be01a82571470e3402e4714819
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones 720
 acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
@@ -206,3 +203,24 @@ acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Historia.png",Canal Historia
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+
+#EXTINF:-1 tvg-id="Setanta Sports",Setanta Sports(Ruso)
+acestream://58f2d9438e8b7816294dd7fe28aaf1af61e5bf1f
+
+#EXTINF:-1 tvg-id="Setanta Sports+",Setanta Sports+(Ruso)
+acestream://72066549fbfd3f755853fe9467586b7debf01f60
+
+#EXTINF:-1 tvg-id="Setanta Sports 1 HD",Setanta Sports 1 HD(Ruso)
+acestream://60a854ea4080f88838080f9e12d7d209c3938f2b
+
+#EXTINF:-1 tvg-id="Setanta Sports 2 HD",Setanta Sports 2 HD(Ruso)
+acestream://8a72010856f27010d03b0e763f4a3d6f02842179
+
+#EXTINF:-1 tvg-id="Setanta Sports 1 HD Baltic",Setanta Sports 1 HD Baltic
+acestream://050cbea560dce5e090b6af5942c222f9c6e5d629
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD",Eurosport 1 HD(Ruso)
+acestream://4e53c6a8f2847a18d9cbc30aecf23e1f51d1e018
+
+#EXTINF:-1 tvg-id="Eurosport 2 HD",Eurosport 2 HD(Ruso)
+acestream://67fb6831cac7ed3d3ae6ca5c164b819db46bd629
