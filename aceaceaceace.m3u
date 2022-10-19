@@ -1,28 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 1
-acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
-
-#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV.png",Evento del Momento 2
-acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
-
-#EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar
-acestream://01b333b9369c662775902638ef8cffac346a0f61
-
-#EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar 720
-acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
-
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga 720
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
-
-#EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-
-#EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2 720
-acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga Multiaudio
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
@@ -33,17 +18,20 @@ acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga 720
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%202.png",DAZN LaLiga 2
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank
-acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar
+acestream://01b333b9369c662775902638ef8cffac346a0f61
 
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank 720
-acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
-
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%202.png",LaLiga SmartBank 2
-acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar 720
+acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones Multiaudio
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
@@ -77,6 +65,15 @@ acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png",M. Liga de Campeones 7
 acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank 720
+acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%202.png",LaLiga SmartBank 2
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png",#0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
@@ -204,9 +201,9 @@ acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 #EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Historia.png",Canal Historia
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,FOX Sports 1 HD [US]
+#EXTINF:-1 tvg-id="FOX Sports 1 HD" tvg-logo="" ,FOX Sports 1 HD [US] (3.7 Mbps)
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,FOX Sports 2 HD [US]
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-logo="" ,FOX Sports 2 HD [US] (3.6 Mbps)
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 
 #EXTINF:-1 tvg-id="Setanta Sports",Setanta Sports [RU]
@@ -224,19 +221,24 @@ acestream://4e53c6a8f2847a18d9cbc30aecf23e1f51d1e018
 #EXTINF:-1 tvg-id="Eurosport 2 HD",Eurosport 2 HD [RU]
 acestream://67fb6831cac7ed3d3ae6ca5c164b819db46bd629
 
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 1 [UK]
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-logo="" ,BT Sport 1 [UK] (8.0 Mbps)
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 2 [UK]
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-logo="" ,BT Sport 2 [UK] (9.2 Mbps)
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 3 [UK]
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-logo="" ,BT Sport 3 [UK] (2.3 Mbps)
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 4 [UK]
+#EXTINF:-1 tvg-id="BT Sport 4" tvg-logo="" ,BT Sport 4 [UK] (9.2 Mbps)
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Premier League [UK]
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="" ,Sky Sports Premier League [UK]
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Maint Event [UK]
+#EXTINF:-1 tvg-id="Sky Sports Maint Event" tvg-logo="" ,Sky Sports Maint Event [UK]
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Premier Sports 1 [UK]
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-logo="" ,Premier Sports 1 [UK] (1.7 Mbps)
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Premier Sports 2 [UK]
+#EXTINF:-1 tvg-id="Premier Sports 2" tvg-logo="" ,Premier Sports 2 [UK] (6.8 Mbps)
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-logo="" ,Polsat Sport Premium 1 [PL] (16.3 Mbps)
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-logo="" ,Polsat Sport Premium 2 [PL]
+acestream://3147c586346aee00c005d1caa55204d38678c95f
