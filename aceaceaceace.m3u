@@ -21,6 +21,9 @@ acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2 4k
+acestream://4a1518a24321fc4b9d48e44b744efac9d17827a9
+
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%202.png",M. LaLiga 2 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 
