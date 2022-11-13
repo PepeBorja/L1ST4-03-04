@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio
-acestream://
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio
 acestream://
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga 
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+acestream://
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga 720
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga Multiaudio
 acestream://
