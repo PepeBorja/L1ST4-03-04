@@ -91,13 +91,16 @@ acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 acestream://
 
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank
-acestream://
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV.png",LaLiga SmartBank 720
-acestream://
+acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%202.png",LaLiga SmartBank 2
-acestream://
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%202.png",LaLiga SmartBank 2 720
+acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png",#0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
