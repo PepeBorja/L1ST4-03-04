@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial Multiaudio
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
 #EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial
 acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
