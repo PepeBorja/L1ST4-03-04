@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial Multiaudio
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial Multiaudio
 acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 
 #EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial Pruebas
-acestream://90364b66ea36f3237b15b545f06b8001b95a3c0c
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial Pruebas UHD
+acestream://440e15375a76b0245ee07873dae1681f8c6d83cb
 
 #EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%20HD.png",Gol Mundial 720
 acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
@@ -23,6 +23,9 @@ acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
 
 #EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Gol%20Mundial%202%20HD.png",Gol Mundial 2 720
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+
+#EXTINF:-1 tvg-id="La 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/La%201.png",La 1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
@@ -179,9 +182,6 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 
 #EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Sport%20TV%203%20HD.png",SPORTV 3
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-
-#EXTINF:-1 tvg-id="La 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/La%201.png",La 1
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Teledeporte.png",Teledeporte
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
