@@ -27,9 +27,6 @@ acestream://440e15375a76b0245ee07873dae1681f8c6d83cb
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/La%201.png",La 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
-#EXTINF:-1 tvg-id="La 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/La%201.png",España UHD
-acestream://059add5d6c8cda2a2ebf8e338744e360388b34ae
-
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20LaLiga%20HD.png",M. LaLiga Multiaudio
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
@@ -259,7 +256,3 @@ acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-logo="" ,Polsat Sport Premium 2 [PL]
 acestream://3147c586346aee00c005d1caa55204d38678c95f
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,El Legado Oculto de la Aljufía(documental)
-https://atlas3.um.es/mediacache/_definst_/smil:cachenfs/2022/11/04/146882_218853_16675610478706.smil/chunklist_w1299014756_b4000000_sles_tkd3Rva2VuaGFzaD1jMDJNNEhITTc5ZTJrbFdwRlpJQ3hpZmFnalE4cXZyM0pMeFYzSTA5eGw0PSZ3dG9rZW5lbmR0aW1lPTE2Njc2ODg0MTM=.m3u8
-
