@@ -37,9 +37,6 @@ acestream://
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones Multiaudio
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones
-acestream://
-
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M.%20Liga%20de%20Campeones%20HD.png",M. Liga de Campeones 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
@@ -155,7 +152,7 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Teledeporte.png",Teledeporte
-acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Cuatro.png",Cuatro
 acestream://
