@@ -220,7 +220,3 @@ acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" tvg-id="Eleven Sports 1 4K", Eleven Sports 1 4K [PL]
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-logo="" ,Polsat Sport Premium 1 [PL] (16.3 Mbps)
-acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-logo="" ,Polsat Sport Premium 2 [PL]
-acestream://3147c586346aee00c005d1caa55204d38678c95f
