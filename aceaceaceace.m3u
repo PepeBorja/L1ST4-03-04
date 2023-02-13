@@ -184,13 +184,3 @@ acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" tvg-id="Eleven Sports 1 4K", Eleven Sports 1 4K [PL]
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-
-
-#EXTINF:-1 tvg-id="",Andor 1x01
-magnet:?xt=urn:btih:8cbe31096386aab126c790523c21467eade70a49&dn=Star.Wars.Andor.1x01.lati.mp4&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.pirateparty.gr%3a6969
-#EXTINF:-1 tvg-id="",Andor 1x02
-acestream://67fb6831cac7ed3d3ae6ca5c164b819db46bd629
-#EXTINF:-1 tvg-id="",Andor 1x03
-acestream://4e53c6a8f2847a18d9cbc30aecf23e1f51d1e018
-#EXTINF:-1 tvg-id="",Andor 1x04
-acestream://67fb6831cac7ed3d3ae6ca5c164b819db46bd629
