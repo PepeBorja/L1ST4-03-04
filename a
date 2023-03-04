@@ -89,11 +89,11 @@ http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 http://127.0.0.1:6878/ace/getstream?id=1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
-http://127.0.0.1:6878/ace/getstream?id=ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+http://127.0.0.1:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-id="" tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 alternativo
-http://127.0.0.1:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+http://127.0.0.1:6878/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 tvg-id="" tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 720
-http://127.0.0.1:6878/ace/getstream?id=a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+http://127.0.0.1:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 tvg-id="DAZN 1" tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png",DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 tvg-id="" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png",DAZN 1 720
