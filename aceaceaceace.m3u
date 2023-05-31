@@ -20,7 +20,9 @@ acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png",DAZN LaLiga 2
-acestream://
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png",DAZN LaLiga 2 720
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
 #EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLigaTV%20Bar.png",LaLiga TV Bar
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
@@ -119,7 +121,7 @@ acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png",Cuatro
-acestream://
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png",Gol TV
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
@@ -138,12 +140,6 @@ acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
 #EXTINF:-1 tvg-id="FOX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",FOX 3 Argentina
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
-
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png",National Geographic
-acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
-
-#EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png",Canal Historia
-acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 
 #EXTINF:-1 tvg-id="FOX Sports 1 HD" tvg-logo="" ,FOX Sports 1 HD [US] (3.7 Mbps)
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
