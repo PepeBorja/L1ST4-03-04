@@ -160,3 +160,6 @@ acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
 #EXTINF:-1 tvg-id="FOX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",FOX 3 Argentina
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
+
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES FHD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321086.ts
