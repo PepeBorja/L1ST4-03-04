@@ -79,11 +79,11 @@ acestream://a1146358aa50c99c887108b17f62f9264186a16a
 
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%230.png" group-title="Deportes",#0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos.png" group-title="Deportes",Vamos
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos.png" group-title="Deportes",Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos.png" group-title="Deportes",Vamos 720
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos.png" group-title="Deportes",Vamos 720
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="M+ Ellas #V HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20%23V.png" group-title="Deportes",Ellas
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20%23V.png" group-title="Deportes",Ellas
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes",M. Deportes
@@ -143,7 +143,7 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="Deportes",Gol TV
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
-#EXTINF:-1 tvg-id="Barça TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bar%C3%A7a%20TV.png" group-title="Deportes",Barça TV
+#EXTINF:-1 tvg-id="Barcelona TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bar%C3%A7a%20TV.png" group-title="Deportes",Barça TV
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN EXTRA Uruguay
