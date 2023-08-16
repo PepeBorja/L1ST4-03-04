@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Deportes",M. LaLiga Multiaudio
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Deportes",M. LaLiga Multiaudio
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Deportes",M. LaLiga 720
-acestream://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="Deportes",M. LaLiga 2 Multiaudio
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="Deportes",M. LaLiga 2 720
@@ -76,7 +78,7 @@ acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
 acestream://a1146358aa50c99c887108b17f62f9264186a16a
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Deportes",Movistar Plus+
-http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos.png" group-title="Deportes",Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos.png" group-title="Deportes",Vamos 720
