@@ -1,5 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
+#EXTINF:-1 tvg-id="Gol Mundial" tvg-logo="https://static.golmundial.com/assets/shared/logos/courtside/golmundial-yellow.svg" group-title="Deportes",Gol Mundial
+acestream://a248e0e3649b135d3e3a806874153f8bccd32e4a
+#EXTINF:-1 tvg-id="Gol Mundial 2" tvg-logo="https://static.golmundial.com/assets/shared/logos/courtside/golmundial-yellow.svg" group-title="Deportes",Gol Mundial 2
+acestream://2288e220d02b9d0364a95a36087a45d9ecb9e2b4
+#EXTINF:-1 tvg-id="Gol Mundial 3" tvg-logo="https://static.golmundial.com/assets/shared/logos/courtside/golmundial-yellow.svg" group-title="Deportes",Gol Mundial 3
+acestream://
+#EXTINF:-1 tvg-id="Gol Mundial 4" tvg-logo="https://static.golmundial.com/assets/shared/logos/courtside/golmundial-yellow.svg" group-title="Deportes",Gol Mundial 4
+acestream://
+#EXTINF:-1 tvg-id="Gol Mundial 5" tvg-logo="https://static.golmundial.com/assets/shared/logos/courtside/golmundial-yellow.svg" group-title="Deportes",Gol Mundial 5
+acestream://
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Deportes",M. LaLiga Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Deportes",M. LaLiga Multiaudio
