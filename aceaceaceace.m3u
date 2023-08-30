@@ -177,3 +177,8 @@ acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="I209.12444.zap2it.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" group-title="Deportes",ESPN 2 US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/premier-sports-1.png" group-title="Deportes",Premier Sports 1
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/premier-sports-2.png" group-title="Deportes",Premier Sports 2
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
