@@ -178,9 +178,9 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="I209.12444.zap2it.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" group-title="Deportes",ESPN 2 US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 tvg-id="PremierSports.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/premier-sports-1.png" group-title="Deportes",Premier Sports 1 UK
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-logo="https://static.premiersportsme.com/templates/premierplayer/images/p1-nl-selected.png" group-title="Deportes",Premier Sports 1 UK
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-id="PremierSports.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/premier-sports-2.png" group-title="Deportes",Premier Sports 2 UK
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-logo="https://static.premiersportsme.com/templates/premierplayer/images/p2-nl-selected.png" group-title="Deportes",Premier Sports 2 UK
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png" group-title="Deportes",Sky Sports Main Event UK
