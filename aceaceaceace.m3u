@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-id="Gol Mundial" tvg-logo="https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV" group-title="Deportes",Gol Mundial
+#EXTINF:-1 tvg-id="Gol Mundial 1" tvg-logo="https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV" group-title="Deportes",Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
 #EXTINF:-1 tvg-id="Gol Mundial 2" tvg-logo="https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV" group-title="Deportes",Gol Mundial 2
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
