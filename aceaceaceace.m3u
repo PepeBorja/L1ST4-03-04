@@ -141,30 +141,29 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="Deportes",M. Golf
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201%20HD.png" group-title="Deportes",SPORTV 1
+#EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201%20HD.png" group-title="Deportes",SPORTV 1 POR
 acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 tvg-id="Sport TV2 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202%20HD.png" group-title="Deportes",SPORTV 2
+#EXTINF:-1 tvg-id="Sport TV2 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202%20HD.png" group-title="Deportes",SPORTV 2 POR
 acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203%20HD.png" group-title="Deportes",SPORTV 3
+#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203%20HD.png" group-title="Deportes",SPORTV 3 POR
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="Deportes",Teledeporte
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 FRA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BEIN%20SPORTS%201%20FRA.png" group-title="Deportes",BEIN SPORTS 1 FRA
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 FRA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BEIN%20SPORTS%202%20FRA.png" group-title="Deportes",BEIN SPORTS 2 FRA
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 FRA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BEIN%20SPORTS%203%20FRA.png" group-title="Deportes",BEIN SPORTS 3 FRA
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="Deportes",Gol TV
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-
-#EXTINF:-1 tvg-id="Barcelona TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bar%C3%A7a%20TV.png" group-title="Deportes",Barça TV
-acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN EXTRA Uruguay
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN Argentina
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 Argentina
-acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-
-#EXTINF:-1 tvg-id="FOX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX 3 Argentina
-acestream://9a8c5485a38e9399e81b3eed23e588946946039f
+#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eleven%201.png" group-title="Deportes",Eleven Sports 1 POR
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="Eleven Sports 2 POR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eleven%202.png" group-title="Deportes",Eleven Sports 2 POR
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="Eleven Sports 3 POR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eleven%203.png" group-title="Deportes",Eleven Sports 3 POR
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="Eleven Sports 4 POR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eleven%204.png" group-title="Deportes",Eleven Sports 4 POR
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="Eleven Sports 5 POR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eleven%205.png" group-title="Deportes",Eleven Sports 5 POR
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="Eleven Sports 6 POR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eleven%206.png" group-title="Deportes",Eleven Sports 6 POR
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
