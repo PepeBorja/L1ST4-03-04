@@ -182,3 +182,6 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="PremierSports.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/premier-sports-2.png" group-title="Deportes",Premier Sports 2
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/sky-sports-main-event.png" group-title="Deportes",Sky Sports Main Event
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
