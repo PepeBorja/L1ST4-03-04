@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 #EXTINF:-1 tvg-id="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Mundial%201.png" group-title="Deportes",Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
