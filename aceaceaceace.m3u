@@ -185,6 +185,8 @@ acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png" group-title="Deportes",Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png" group-title="Deportes",Sky Sports Premier League UK
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="SkySpFball.uk" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png" group-title="Deportes",Sky Sports Football UK
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="SSkySpArena.uk" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/Sky_Sports_Arena.png" group-title="Deportes",Sky Sports Arena UK
