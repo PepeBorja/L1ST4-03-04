@@ -202,7 +202,7 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1 tvg-id="Eurosport 1 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20GER.png" group-title="Alemania",Eurosport 1 GER
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 tvg-id="Eurosport 1 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202%20GER.png" group-title="Alemania",Eurosport 2 GER
+#EXTINF:-1 tvg-id="Eurosport 2 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202%20GER.png" group-title="Alemania",Eurosport 2 GER
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Poland.png" group-title="4K",Eleven Sport 1 4K POL
