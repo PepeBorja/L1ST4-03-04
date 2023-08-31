@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/programtv.onet.pl.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/programtv.onet.pl.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 #EXTINF:-1 tvg-id="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Mundial%201.png" group-title="Mundial Basket",Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
@@ -148,11 +148,12 @@ acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" group-title="USA",FOX SPORTS 2 US
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.ibb.co/ssj7ZBV/espn.png" group-title="USA",ESPN US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/pdpg7bR/espn2.png" group-title="USA",ESPN 2 US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="USA",beIN Sports Xtra ñ US
+acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="UK",Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
