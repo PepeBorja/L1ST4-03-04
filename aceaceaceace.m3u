@@ -9,6 +9,9 @@ acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
 #EXTINF:-1 tvg-id="Gol Mundial 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Mundial%204.png" group-title="Mundial Basket",Gol Mundial 4
 acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/397/original/4k-ultra-hd-resolution-sign-icon-png.png" group-title="4K",4k Pruebas F1 + M+Liga
+acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="LaLiga",M. LaLiga Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="LaLiga",M. LaLiga Multiaudio
@@ -140,9 +143,6 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="Golf",M. Golf 2
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/397/original/4k-ultra-hd-resolution-sign-icon-png.png" group-title="4K",4k Pruebas off
-acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" group-title="USA",FOX SPORTS 1 US
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
