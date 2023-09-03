@@ -246,15 +246,15 @@ acestream://3147c586346aee00c005d1caa55204d38678c95f
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Rusia",Матч! RU
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://picon.pp.ua/match-football1.png" group-title="Rusia",Матч! Футбол 1 RU
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://picon.pp.ua/match-football1.png" group-title="Rusia",Матч! Football 1 RU
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://picon.pp.ua/match-football2.png" group-title="Rusia",Матч! Футбол 2 RU
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://picon.pp.ua/match-football2.png" group-title="Rusia",Матч! Football 2 RU
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://picon.pp.ua/match-football3.png" group-title="Rusia",Матч! Футбол 3 RU
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://picon.pp.ua/match-football3.png" group-title="Rusia",Матч! Football 3 RU
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Rusia",Матч! Игра RU
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Rusia",Матч! Game RU
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://picon.pp.ua/match-boec.png" group-title="Rusia",Матч! Боец RU
+#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://picon.pp.ua/match-boec.png" group-title="Rusia",Матч! Fight RU
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://picon.pp.ua/match-arena.png" group-title="Rusia",Матч! Арена RU
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://picon.pp.ua/match-arena.png" group-title="Rusia",Матч! Arena RU
 acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
