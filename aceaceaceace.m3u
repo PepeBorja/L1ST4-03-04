@@ -254,3 +254,7 @@ acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://picon.pp.ua/match-igra.png" group-title="Rusia",Матч! Игра RU
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://picon.pp.ua/match-boec.png" group-title="Rusia",Матч! Боец RU
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://picon.pp.ua/match-arena.png" group-title="Rusia",Матч! Арена RU
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
