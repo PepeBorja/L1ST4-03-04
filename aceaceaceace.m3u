@@ -13,6 +13,8 @@ acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="4K",4k Pruebas M. Liga
 acestream://ac5b8784bb7dae0dbc6a2edc037fbf5c8d6a97d1
+#EXTINF:-1 tvg-id="Evento" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multideporte.png" group-title="Evento",Evento del Momento
+acestream://f4b7b462b6104ff4dc84baf411b95606b831bd90
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="LaLiga",M. LaLiga Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
