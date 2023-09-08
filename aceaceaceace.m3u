@@ -148,6 +148,9 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="Golf",M. Golf 2
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
+#EXTINF:-1 tvg-id="I217.33395.zap2it.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png"group-title="Deportes",Tennis Channel
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+
 #EXTINF:-1 tvg-id="Evento" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multideporte.png" group-title="Evento del Momento",Evento del Momento
 acestream://f4b7b462b6104ff4dc84baf411b95606b831bd90
 
