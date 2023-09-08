@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG"
 
 #EXTINF:-1 tvg-id="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Mundial%201.png" group-title="Mundial Basket",Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
@@ -248,6 +248,11 @@ acestream://9e7fe279f421b734a8af9e68320955fd16f80b4b
 acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-logo="https://picon.pp.ua/polsat-sport-pr2.png" group-title="Polonia",Polsat Sport Premium 2 POL
 acestream://3147c586346aee00c005d1caa55204d38678c95f
+
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Paises Bajos",Ziggo Sport Voetbal NL
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_racing.png" group-title="Paises Bajos",Ziggo Sport Racing NL
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Rusia",Матч! RU
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
