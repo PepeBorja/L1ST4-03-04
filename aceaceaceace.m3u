@@ -249,9 +249,9 @@ acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-logo="https://picon.pp.ua/polsat-sport-pr2.png" group-title="Polonia",Polsat Sport Premium 2 POL
 acestream://3147c586346aee00c005d1caa55204d38678c95f
 
-#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Paises Bajos",Ziggo Sport Voetbal NL
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-128.png" group-title="Paises Bajos",Ziggo Sport Voetbal NL
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_racing.png" group-title="Paises Bajos",Ziggo Sport Racing NL
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-128.png" group-title="Paises Bajos",Ziggo Sport Racing NL
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Rusia",Матч! RU
