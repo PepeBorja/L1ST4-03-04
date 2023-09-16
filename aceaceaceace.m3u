@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG"
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="4K",M. LaLiga UHD Pruebas
+#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="UHD",M. LaLiga UHD Pruebas
 acestream://ac5b8784bb7dae0dbc6a2edc037fbf5c8d6a97d1
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="LaLiga",M. LaLiga Multiaudio
@@ -213,7 +213,7 @@ acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL GER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="Alemania",SPORTDIGITAL FUSSBALL GER
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 
-#EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Poland.png" group-title="4K",Eleven Sport 1 4K POL
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Poland.png" group-title="UHD",Eleven Sport 1 4K POL
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Poland.png" group-title="Polonia",Eleven Sport 1 POL
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
