@@ -43,12 +43,12 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 tvg-id="DAZN LaLiga 5 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png" group-title="LaLiga",DAZN LaLiga 5 MultiAudio
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Champions",M. Liga de Campeones
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Champions",M. Liga de Campeones Multiaudio
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Champions",M. Liga de Campeones Multiaudio
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Champions",M. Liga de Campeones
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Champions",M. Liga de Campeones 720
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Champions",M+ Liga de Campeones 2
