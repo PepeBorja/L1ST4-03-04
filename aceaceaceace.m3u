@@ -70,13 +70,15 @@ acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="Champions",M. Liga de Campeones 8
 acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" group-title="Champions",M. Liga de Campeones 9
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+acestream://7244379f8f6382d40afec871fb8e4219a803840b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" group-title="Champions",M. Liga de Campeones 10
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" group-title="Champions",M. Liga de Campeones 11
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" group-title="Champions",M. Liga de Campeones 12
-acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+acestream://bb50397b3f49167eed95264005fae851baa7e3ee
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="Champions",M. Liga de Campeones 13
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="Laliga Hypermotion",LaLiga Hypermotion
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
