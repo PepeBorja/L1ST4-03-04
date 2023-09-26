@@ -80,10 +80,6 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="Laliga Hypermotion",LaLiga Hypermotion 3
 acestream://59ba45b79152e4599144177b234f6491fc19db53
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png" group-title="Laliga Hypermotion",LaLiga Hypermotion 4
-acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png" group-title="Laliga Hypermotion",LaLiga Hypermotion 5
-acestream://a1146358aa50c99c887108b17f62f9264186a16a
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Movistar Deportes",Movistar Plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
