@@ -210,8 +210,6 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1 tvg-id="Eurosport 1 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20GER.png" group-title="Alemania",Eurosport 1 GER
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 tvg-id="DE: Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20GER.png" group-title="Alemania",Eurosport 1 GER
-acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="Eurosport 2 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202%20GER.png" group-title="Alemania",Eurosport 2 GER
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-id="DAZN 1 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Alemania",DAZN 1 GER
@@ -221,8 +219,6 @@ acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="SPORT1+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Sport1%2BHD_2013.svg/1200px-Logo_Sport1%2BHD_2013.svg.png" group-title="Alemania",Sport1+ GER
 acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL GER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="Alemania",SPORTDIGITAL FUSSBALL GER
-acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-id="DE: SPORTDIGITAL FUSSBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="Alemania",SPORTDIGITAL FUSSBALL GER
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 tvg-id="DE: Magenta Sport 1" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F98154b022b1cd559da555d70d6343b5d8cfb13ce.png" group-title="Alemania",Magenta Sports 1
 acestream://501141c649a2b78c4965cbf3257224181cc55072
