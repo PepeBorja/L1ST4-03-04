@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG, https://xmltv.info/de/epg.xml"
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="UHD",M. LaLiga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
@@ -210,6 +210,8 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1 tvg-id="Eurosport 1 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20GER.png" group-title="Alemania",Eurosport 1 GER
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-id="DE: Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20GER.png" group-title="Alemania",Eurosport 1 GER
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="Eurosport 2 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202%20GER.png" group-title="Alemania",Eurosport 2 GER
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-id="DAZN 1 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Alemania",DAZN 1 GER
@@ -220,6 +222,15 @@ acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL GER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="Alemania",SPORTDIGITAL FUSSBALL GER
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-id="DE: SPORTDIGITAL FUSSBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="Alemania",SPORTDIGITAL FUSSBALL GER
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-id="DE: Magenta Sport 1" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F98154b022b1cd559da555d70d6343b5d8cfb13ce.png" group-title="Alemania",Magenta Sports 1
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF:-1 tvg-id="DE: Magenta Sport 2" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F379fa8f587a3c004919330145893257962381e58.png" group-title="Alemania",Magenta Sports 2
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF:-1 tvg-id="DE: Magenta Sport 3" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F18dcf61dc1f328e6383f3d01817a18aa22948d5c.png" group-title="Alemania",Magenta Sports 3
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+
 
 #EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Poland.png" group-title="UHD",Eleven Sport 1 4K POL
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
