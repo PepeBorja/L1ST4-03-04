@@ -179,24 +179,24 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="BEIN SPORTS 3 FRA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BEIN%20SPORTS%203%20FRA.png" group-title="Francia",beIN Sports 3 FRA
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201%20HD.png" group-title="Portgual",SPORTV 1 POR
+#EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201%20HD.png" group-title="Portugal",SPORTV 1 POR
 acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 tvg-id="Sport TV2 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202%20HD.png" group-title="Portgual",SPORTV 2 POR
+#EXTINF:-1 tvg-id="Sport TV2 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202%20HD.png" group-title="Portugal",SPORTV 2 POR
 acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203%20HD.png" group-title="Portgual",SPORTV 3 POR
+#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203%20HD.png" group-title="Portugal",SPORTV 3 POR
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 
-#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png" group-title="Portgual",Eleven Sports 1 POR
+#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png" group-title="Portugal",Eleven Sports 1 POR
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="Eleven Sports 2 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png" group-title="Portgual",Eleven Sports 2 POR
+#EXTINF:-1 tvg-id="Eleven Sports 2 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png" group-title="Portugal",Eleven Sports 2 POR
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="Eleven Sports 3 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/2ls4291601118186.png" group-title="Portgual",Eleven Sports 3 POR
+#EXTINF:-1 tvg-id="Eleven Sports 3 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/2ls4291601118186.png" group-title="Portugal",Eleven Sports 3 POR
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="Eleven Sports 4 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vdwr2e1601129826.png" group-title="Portgual",Eleven Sports 4 POR
+#EXTINF:-1 tvg-id="Eleven Sports 4 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vdwr2e1601129826.png" group-title="Portugal",Eleven Sports 4 POR
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="Eleven Sports 5 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png" group-title="Portgual",Eleven Sports 5 POR
+#EXTINF:-1 tvg-id="Eleven Sports 5 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png" group-title="Portugal",Eleven Sports 5 POR
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="Eleven Sports 6 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/let2ub1601112435.png" group-title="Portgual",Eleven Sports 6 POR
+#EXTINF:-1 tvg-id="Eleven Sports 6 POR" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/let2ub1601112435.png" group-title="Portugal",Eleven Sports 6 POR
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1 tvg-id="Eurosport 1 GER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20GER.png" group-title="Alemania",Eurosport 1 GER
@@ -217,7 +217,18 @@ acestream://501141c649a2b78c4965cbf3257224181cc55072
 acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
 #EXTINF:-1 tvg-id="DE: Magenta Sport 3" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F18dcf61dc1f328e6383f3d01817a18aa22948d5c.png" group-title="Alemania",Magenta Sports 3 GER
 acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-
+#EXTINF:-1 tvg-id="DE: Magenta Sport 4" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F01b90821d515b6f4a4a6609828032688d14980fa.png" group-title="Alemania",Magenta Sports 4 GER
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF:-1 tvg-id="DE: Magenta Sport 5" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F3aebb06486ea85ba805e71c19685e834c4c7c473.png" group-title="Alemania",Magenta Sports 5 GER
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF:-1 tvg-id="DE: Magenta Sport 6" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2Fc8d20e1b13a5d61c2113dd254e74529e7616db94.png" group-title="Alemania",Magenta Sports 6 GER
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF:-1 tvg-id="DE: Magenta Sport 7" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F0da93c45d664432b070d2babc8f735eae2c9a333.png" group-title="Alemania",Magenta Sports 7 GER
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF:-1 tvg-id="DE: Magenta Sport 8" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F0490136b6aec492e6052152eae65fc38f2bec25a.png" group-title="Alemania",Magenta Sports 8 GER
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF:-1 tvg-id="DE: Magenta Sport 9" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F080c8f791925e531ea2fbcae7f72423c0f88245a.png" group-title="Alemania",Magenta Sports 9 GER
+acestream://86495fe134ff065d5217497babe6be33f81d37d1
 
 #EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Poland.png" group-title="UHD",Eleven Sport 1 4K POL
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
@@ -269,7 +280,7 @@ acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://picon.pp.ua/match-arena.png" group-title="Rusia",Матч! Arena RU
 acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Rusia",Setanta Sports 1
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Rusia",Setanta Sports 1 RU
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Rusia",Setanta Sports 2
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Rusia",Setanta Sports 2 RU
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
