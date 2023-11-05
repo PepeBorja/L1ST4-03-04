@@ -1,9 +1,7 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG, https://xmltv.info/de/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG, https://xmltv.info/de/epg.xml"
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="UHD",M. LaLiga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="UHD",M. LaLiga UHD Pruebas
-acestream://8286183314d367940409b760bbf887f3fb923f60
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="LaLiga",M. LaLiga Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
@@ -114,8 +112,6 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 tvg-id="DAZN F1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%204K.png" group-title="UHD",DAZN F1 UHD
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 tvg-id="DAZN F1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%204K.png" group-title="UHD",DAZN F1 UHD Pruebas
-acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1",DAZN F1
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1",DAZN F1 alternativo
@@ -149,9 +145,6 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="Otros",M. Golf 2
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
-#EXTINF:-1 tvg-id="I217.33395.zap2it.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png"group-title="Otros",Tennis Channel
-acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
-
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" group-title="USA",FOX SPORTS 1 US
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" group-title="USA",FOX SPORTS 2 US
@@ -160,8 +153,6 @@ acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/pdpg7bR/espn2.png" group-title="USA",ESPN 2 US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="USA",beIN Sports Xtra ñ US
-acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="UK",Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
