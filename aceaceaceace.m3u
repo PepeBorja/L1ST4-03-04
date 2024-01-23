@@ -165,11 +165,11 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/pdpg7bR/espn2.png" group-title="USA",ESPN 2 US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/Xb9cxBQ/sky-sports-main-event.png" group-title="UK",Sky Sports Main Event UK 50fps
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="UK",Sky Sports Main Event UK 50fps
 acestream://b0aa89aa87d5e06814c47261cd269e25fe37b55e
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="UK",Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="SkySp.PL.uk" tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="UK",Sky Sports Premier League UK 50fps
+#EXTINF:-1 tvg-id="SkySp.PL.uk" tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="UK",Sky Sports Premier League UK 50fps
 acestream://44e4ea4fe6d4dbe2e45e7ff0691ad11e63ec0a3a
 #EXTINF:-1 tvg-id="SkySp.PL.uk" tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="UK",Sky Sports Premier League UK
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
