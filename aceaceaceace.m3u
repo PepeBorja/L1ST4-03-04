@@ -165,7 +165,7 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/pdpg7bR/espn2.png" group-title="USA",ESPN 2 US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest?cb=20220728001048" group-title="UK",Sky Sports Main Event UK 50fps
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/Xb9cxBQ/sky-sports-main-event.png" group-title="UK",Sky Sports Main Event UK 50fps
 acestream://b0aa89aa87d5e06814c47261cd269e25fe37b55e
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="UK",Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
