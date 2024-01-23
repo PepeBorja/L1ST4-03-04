@@ -181,7 +181,7 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 acestream://d70a83aa67d65075cdb437cbe385b0c78339a2b9
 #EXTINF:-1 tvg-id="SkySp.Arena.uk" tvg-logo="https://i.ibb.co/fx1tbCQ/Skyarena.png" group-title="UK",Sky Sports Arena UK
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://i.ibb.co/LvjVXQk/Sky-Sports-Action-2021.png" group-title="UK",Sky Sports Action UK
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://i.ibb.co/LvjVXQk/Sky-Sports-Action-2021.png" group-title="UK",Sky Sports Action UK 50fps
 acestream://d387ae80b3f191545ccbfc283afef914291b179e
 #EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://i.ibb.co/LvjVXQk/Sky-Sports-Action-2021.png" group-title="UK",Sky Sports Action UK
 acestream://7f2764a45acf3fe839f8c350fe94aa436e8fb46a
