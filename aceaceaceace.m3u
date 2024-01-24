@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/italypremium.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/italypremium.xml"
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://i.ibb.co/Bnb4d1j/MLIGUH.png" group-title="UHD",M. LaLiga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
