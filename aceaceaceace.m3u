@@ -145,9 +145,9 @@ acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%204.png" group-title="DAZN Liga F",DAZN Liga F 4
 acestream://e454681a152a86da504e63694f17f90d0586867d
 
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="Otros",M. Golf
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://i.ibb.co/X8r26dS/GOLF.png" group-title="Otros",M. Golf
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="Otros",M. Golf 2
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://i.ibb.co/9sMxd7J/GOLF2.png" group-title="Otros",M. Golf 2
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" group-title="USA",FOX SPORTS 1 US
