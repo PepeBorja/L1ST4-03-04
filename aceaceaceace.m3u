@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/italypremium.xml"
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="UHD",M. LaLiga UHD
+#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://i.ibb.co/Bnb4d1j/MLIGUH.png" group-title="UHD",M. LaLiga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="LaLiga",M. LaLiga Multiaudio
@@ -68,11 +68,11 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="Champions",M. Liga de Campeones 13
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="Laliga Hypermotion",LaLiga Hypermotion
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/BLf354D/MLIGS.png" group-title="Laliga Hypermotion",LaLiga Hypermotion
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="Laliga Hypermotion",LaLiga Hypermotion 720
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="Laliga Hypermotion",LaLiga Hypermotion 2
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.ibb.co/JBd1wZg/MLIGS2.png" group-title="Laliga Hypermotion",LaLiga Hypermotion 2
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="Laliga Hypermotion",LaLiga Hypermotion 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
@@ -96,7 +96,7 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20%23V.png" group-title="Otros",Ellas
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Movistar Deportes",M. Deportes
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/TkLMNZj/MDEP1.png" group-title="Movistar Deportes",M. Deportes
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Movistar Deportes",M. Deportes 720
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
