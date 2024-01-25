@@ -161,9 +161,9 @@ acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://i.ibb.co/LvjVXQk/Sky-Sports-Action-2021.png" group-title="UK",Sky Sports Action UK
 acestream://7f2764a45acf3fe839f8c350fe94aa436e8fb46a
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://i.ibb.co/Ln87YX0/TNTSports1.png" group-title="UK",TNT Sports 1 UK
+#EXTINF:-1 tvg-id="bt-sport1" tvg-logo="https://i.ibb.co/Ln87YX0/TNTSports1.png" group-title="UK",TNT Sports 1 UK
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://i.ibb.co/VHf22cK/TNTSports2.png" group-title="UK",TNT Sports 2 UK
+#EXTINF:-1 tvg-id="bt-sport2" tvg-logo="https://i.ibb.co/VHf22cK/TNTSports2.png" group-title="UK",TNT Sports 2 UK
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://i.ibb.co/5990Fb2/TNTSports3.png" group-title="UK",TNT Sports 3 UK
 acestream://5f966c123759de46dff29c379266b7a403452033
@@ -297,7 +297,7 @@ acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Rusia", EuroSport 1 RU
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Rusía", EuroSport 2 RU
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Rusia", EuroSport 2 RU
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-logo="https://i.ibb.co/3fPVPLL/Bein1.png" group-title="Turquía", Bein Sports 1 TUR
