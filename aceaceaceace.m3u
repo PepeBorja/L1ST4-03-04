@@ -217,6 +217,10 @@ acestream://ac839cda9709255c21a98af455731f037e77a9e4
 acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
 #EXTINF:-1 tvg-id="DE: Magenta Sport 9" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F080c8f791925e531ea2fbcae7f72423c0f88245a.png" group-title="Alemania",Magenta Sports 9 GER
 acestream://86495fe134ff065d5217497babe6be33f81d37d1
+#EXTINF:-1 tvg-id="DE: Magenta Sport 10" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F2b05377ff812334314c79b11b52d35f41b7715d9.png" group-title="Alemania",Magenta Sports 10 GER
+acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+#EXTINF:-1 tvg-id="DE: Magenta Sport 11" tvg-logo="https://ngiss.t-online.de/iss?client=ngtv&ar=keep&x=120&y=48&src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2Fba33b056349080653c20bf96dbae50c57075c45b.png" group-title="Alemania",Magenta Sports 11 GER
+acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 
 #EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://i.ibb.co/SRX7hcF/eleven4k.png" group-title="UHD",Eleven Sport 1 4K POL
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
