@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://i.ibb.co/Bnb4d1j/MLIGUH.png" group-title="UHD",M. LaLiga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
@@ -257,17 +257,6 @@ acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://tvgidsassets.nl/v314/img/channels/120x120/420.png" group-title="Paises Bajos",Ziggo Sport Racing NL
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
-
-#EXTINF:-1 tvg-id="Eurosport HD.it" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Italia",Eurosport 1 IT
-acestream://6df68b76b8ddb01b88cc298cf83df8ce9999c988
-#EXTINF:-1 tvg-id="Eurosport 2 HD.it" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Italia",Eurosport 2 IT
-acestream://fea704f2500d1c240a6ba79106f664cda3b97365
-#EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/82plpt1601128493.png" group-title="Italia",Sky Sport Arena IT
-acestream://b98fc0522f0442429f8c1f4216b2b06b593b33ae
-#EXTINF:-1 tvg-id="Sky Sport NBA.it" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_NBA.png" group-title="Italia",Sky Sport NBA IT
-acestream://ee197f7428f5d4cc88f5e2c936b2f0d38a88e6b5
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Uno.png" group-title="Italia",Sky Sport Uno IT
-acestream://56de175b8323194667424e587414abb9fde5798a
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://picon.pp.ua/match-tv.png" group-title="Rusia",Матч! RU
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
