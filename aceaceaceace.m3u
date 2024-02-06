@@ -274,6 +274,8 @@ acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://picon.pp.ua/match-arena.png" group-title="Rusia",Матч! Arena RU
 acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-id="start" tvg-logo="https://epgx.site/p/start.png" group-title="Rusia",Старт (Start) RU
+acestream://4b129146077c1e357e4ab341448b9fb629f939dc
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://picon.pp.ua/setanta-sports.png" group-title="Rusia",Setanta Sports 1 RU
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="Rusia",Setanta Sports 2 RU
