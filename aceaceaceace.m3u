@@ -252,8 +252,6 @@ acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 acestream://3147c586346aee00c005d1caa55204d38678c95f
 #EXTINF:-1 tvg-id="sportklub-pl" tvg-logo="https://i.ibb.co/HCsWQvw/Sport-Klub.png" group-title="Polonia", Sport Klub POL
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
-#EXTINF:-1 tvg-id="tvp-sport" tvg-logo="https://i.ibb.co/Gck11Fx/TVPsport.png" group-title="Polonia", TVP Sport
-acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://tvgidsassets.nl/v314/img/channels/120x120/474.png" group-title="Paises Bajos",Ziggo Sport Voetbal NL
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
