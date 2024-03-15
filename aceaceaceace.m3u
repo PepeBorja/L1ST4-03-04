@@ -1,19 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://i.ibb.co/Bnb4d1j/MLIGUH.png" group-title="UHD",M. LaLiga UHD
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-chno="1" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. LaLiga Multiaudio
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. LaLiga Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-chno="2" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. LaLiga Multiaudio
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. LaLiga Multiaudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-chno="3" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. Laliga
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. Laliga
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-chno="4" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. LaLiga 720
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jgf1yGZ/MLIGA.png" group-title="LaLiga",M. LaLiga 720
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD"  tvg-logo="https://i.ibb.co/5GYvQbR/MLIG1.png" group-title="LaLiga",M. LaLiga 2 Multiaudio
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.ibb.co/5GYvQbR/MLIG1.png" group-title="LaLiga",M. LaLiga 2 Multiaudio
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD"  tvg-logo="https://i.ibb.co/5GYvQbR/MLIG1.png" group-title="LaLiga",M. LaLiga 2 720
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.ibb.co/5GYvQbR/MLIG1.png" group-title="LaLiga",M. LaLiga 2 720
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="LaLiga",DAZN LaLiga Multiaudio
@@ -115,8 +113,6 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Eurosport",Eurosport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1 tvg-id="DAZN F1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%204K.png" group-title="UHD",DAZN F1 UHD
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1",DAZN F1
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1",DAZN F1 alternativo
