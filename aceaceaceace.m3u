@@ -132,14 +132,19 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="DAZN",DAZN 4
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png" group-title="DAZN Liga F",DAZN Liga F 1
+#EXTINF:-1 tvg-id="PPV1" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 1 (UFC, Boxeo, ...)
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%202.png" group-title="DAZN Liga F",DAZN Liga F 2
+#EXTINF:-1 tvg-id="PPV2" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 2 (UFC, Boxeo, ...)
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%203.png" group-title="DAZN Liga F",DAZN Liga F 3
+#EXTINF:-1 tvg-id="PPV3" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 3 (UFC, Boxeo, ...)
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%204.png" group-title="DAZN Liga F",DAZN Liga F 4
+#EXTINF:-1 tvg-id="PPV4" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 4 (UFC, Boxeo, ...)
 acestream://e454681a152a86da504e63694f17f90d0586867d
+
+#EXTINF:-1 tvg-id="FEFTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="PPV",FEFTV 1
+acestream://a7d47bab1411685434074cc6dd18a73b6ca43607
+#EXTINF:-1 tvg-id="FEFTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="PPV",FEFTV 1
+acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://i.ibb.co/X8r26dS/GOLF.png" group-title="Otros",M. Golf
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
