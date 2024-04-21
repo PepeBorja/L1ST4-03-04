@@ -132,13 +132,13 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="DAZN",DAZN 4
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
-#EXTINF:-1 tvg-id="PPV1" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 1 UFC, Boxeo, etc
+#EXTINF:-1 tvg-id="PPV1" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 1 (UFC Boxeo etc)
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="PPV2" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 2 UFC, Boxeo, etc
+#EXTINF:-1 tvg-id="PPV2" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 2 (UFC Boxeo etc)
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="PPV3" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 3 UFC, Boxeo, etc
+#EXTINF:-1 tvg-id="PPV3" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 3 (UFC Boxeo etc)
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="PPV4" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 4 UFC, Boxeo, etc
+#EXTINF:-1 tvg-id="PPV4" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 4 (UFC Boxeo etc)
 acestream://e454681a152a86da504e63694f17f90d0586867d
 
 #EXTINF:-1 tvg-id="FEFTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="FEFTV",FEFTV 1
