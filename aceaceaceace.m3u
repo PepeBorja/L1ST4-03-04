@@ -32,11 +32,11 @@ acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="LaLiga",DAZN LaLiga 2 720 MultiAudio
 acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
 
-#EXTINF:-1 tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%203.png" group-title="LaLiga",DAZN LaLiga 3 MultiAudio
+#EXTINF:-1 tvg-id="DAZN LaLiga 3" tvg-logo="" group-title="LaLiga",DAZN LaLiga 3 MultiAudio
 acestream://3d0b2395098452617097896abb38956965b8a396
-#EXTINF:-1 tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%204.png" group-title="LaLiga",DAZN LaLiga 4 MultiAudio
+#EXTINF:-1 tvg-id="DAZN LaLiga 4" tvg-logo="" group-title="LaLiga",DAZN LaLiga 4 MultiAudio
 acestream://6e97745e481ee0be3b48720d4bfead7da2f08689
-#EXTINF:-1 tvg-id="DAZN LaLiga 5 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png" group-title="LaLiga",DAZN LaLiga 5 MultiAudio
+#EXTINF:-1 tvg-id="DAZN LaLiga 5" tvg-logo="" group-title="LaLiga",DAZN LaLiga 5 MultiAudio
 acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.ibb.co/n3YrCCX/CHAPIO.png" group-title="Champions",M. Liga de Campeones Multiaudio
