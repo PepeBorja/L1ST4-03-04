@@ -106,9 +106,11 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="" group-title="Movistar Deportes",M. Deportes 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="" group-title="Eurosport",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 4K" tvg-logo="" group-title="Eurosport",Eurosport 4k
+acestream://c525471499b936decc037ea86e0f8125ebf78c28
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-logo="" group-title="Eurosport",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
