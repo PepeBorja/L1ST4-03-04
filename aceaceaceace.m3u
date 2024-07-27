@@ -13,11 +13,10 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
 acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
 acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
 #EXTINF:-1 tvg-id="Eurosport 3" tvg-logo="" group-title="Eurosport",Eurosport 3
