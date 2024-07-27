@@ -4,6 +4,35 @@
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="" group-title="TDT",La 1 UHD
 http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+#EXTINF:-1 tvg-id="La 2" tvg-logo="" group-title="TDT",La 2
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="" group-title="TDT",Teledeporte
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+
+#EXTINF:-1 tvg-id="Eurosport 4K" tvg-logo="" group-title="Eurosport",Eurosport 4k
+http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 tvg-id="Eurosport 3" tvg-logo="" group-title="Eurosport",Eurosport 3
+http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 tvg-id="Eurosport 4" tvg-logo="" group-title="Eurosport",Eurosport 4
+http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 tvg-id="Eurosport 5" tvg-logo="" group-title="Eurosport",Eurosport 5
+http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 tvg-id="Eurosport 6" tvg-logo="" group-title="Eurosport",Eurosport 6
+http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 tvg-id="Eurosport 7" tvg-logo="" group-title="Eurosport",Eurosport 7
+http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 tvg-id="Eurosport 8" tvg-logo="" group-title="Eurosport",Eurosport 8
+http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 tvg-id="Eurosport 9" tvg-logo="" group-title="Eurosport",Eurosport 9
+http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga Multiaudio
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
@@ -120,13 +149,6 @@ http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="" group-title="Movistar Deportes",M. Deportes 7
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-
-#EXTINF:-1 tvg-id="Eurosport 4K" tvg-logo="" group-title="Eurosport",Eurosport 4k
-http://127.0.0.1:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
