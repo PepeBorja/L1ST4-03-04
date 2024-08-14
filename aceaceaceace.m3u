@@ -1,38 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml"
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="" group-title="TDT",La 1
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="" group-title="TDT",La 1 UHD
-acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
-#EXTINF:-1 tvg-id="La 2" tvg-logo="" group-title="TDT",La 2
-acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="" group-title="TDT",Teledeporte
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-
-#EXTINF:-1 tvg-id="Eurosport 4K" tvg-logo="" group-title="Eurosport",Eurosport 4k
-acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
-acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
-acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
-#EXTINF:-1 tvg-id="Eurosport 3" tvg-logo="" group-title="Eurosport",Eurosport 3
-acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
-#EXTINF:-1 tvg-id="Eurosport 4" tvg-logo="" group-title="Eurosport",Eurosport 4
-acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
-#EXTINF:-1 tvg-id="Eurosport 5" tvg-logo="" group-title="Eurosport",Eurosport 5
-acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
-#EXTINF:-1 tvg-id="Eurosport 6" tvg-logo="" group-title="Eurosport",Eurosport 6
-acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
-#EXTINF:-1 tvg-id="Eurosport 7" tvg-logo="" group-title="Eurosport",Eurosport 7
-acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
-#EXTINF:-1 tvg-id="Eurosport 8" tvg-logo="" group-title="Eurosport",Eurosport 8
-acestream://721a78f2076faa584c9c09059ffb4e10159f4665
-#EXTINF:-1 tvg-id="Eurosport 9" tvg-logo="" group-title="Eurosport",Eurosport 9
-acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
@@ -46,15 +13,8 @@ acestream://f031f5728b32f6089dda28edebe990cf198108d8
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 2 720
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
-
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 3
 acestream://de52318ab15c921d8d5c036c5f33562382b5ae71
-#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="" group-title="LaLiga",M. LaLiga 4
-acestream://5c2ee247211b205f64ef1cf90ef5c45408657326
-#EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-logo="" group-title="LaLiga",M. LaLiga 5
-acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d
-#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="" group-title="LaLiga",M. LaLiga 6
-acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga Multiaudio
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
@@ -66,13 +26,6 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 720 MultiAudio
 acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
-
-#EXTINF:-1 tvg-id="DAZN LaLiga 3" tvg-logo="" group-title="LaLiga",DAZN LaLiga 3 MultiAudio
-acestream://3d0b2395098452617097896abb38956965b8a396
-#EXTINF:-1 tvg-id="DAZN LaLiga 4" tvg-logo="" group-title="LaLiga",DAZN LaLiga 4 MultiAudio
-acestream://6e97745e481ee0be3b48720d4bfead7da2f08689
-#EXTINF:-1 tvg-id="DAZN LaLiga 5" tvg-logo="" group-title="LaLiga",DAZN LaLiga 5 MultiAudio
-acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones Multiaudio
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
@@ -139,6 +92,11 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="" group-title="Movistar Deportes",M. Deportes 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 alternativo
@@ -168,24 +126,15 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 3
 acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 4
-acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 5
-acestream://7a6f7c3acc3689c40f2300432723c55d41222af0
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 6
-acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 7" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 7
-acestream://b7e43c2c3887864193578eb57079955c50070f69
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 8
-acestream://11c89343be863cf2a69b3973747c629d9e79d7b8
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 9" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 9
-acestream://0fd11e74d20919c25d2c5d96ba6f7fc7532394c1
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 10" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 10
-acestream://629222201d6e36cc0f4ab6244362de32bed783b2
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 11" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 11
-acestream://d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 12" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 12
-acestream://7b975804279b0aa421496538ad21397cc06ddfb8
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="" group-title="TDT",La 1
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="" group-title="TDT",La 1 UHD
+acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+#EXTINF:-1 tvg-id="La 2" tvg-logo="" group-title="TDT",La 2
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="" group-title="TDT",Teledeporte
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
 #EXTINF:-1 tvg-id="PPV1" tvg-logo="https://ia802900.us.archive.org/5/items/ppv_20200411/ppv.png" group-title="PPV",PPV 1 (UFC Boxeo etc)
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
