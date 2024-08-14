@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml"
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="" group-title="TDT",La 1
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
@@ -322,17 +322,6 @@ http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="" group-title="Rusia", EuroSport 2 RU
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
-
-#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-logo="https://i.ibb.co/3fPVPLL/Bein1.png" group-title="Turquía", Bein Sports 1 TUR
-http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-logo="https://i.ibb.co/9VMNBsJ/Bein2.png" group-title="Turquía", Bein Sports 2 TUR
-http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co/GkX99sd/Bein3.png" group-title="Turquía", Bein Sports 3 TUR
-http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-id="beIN SPORTS 4" tvg-logo="https://i.ibb.co/swxDvMT/Bein4.png" group-title="Turquía", Bein Sports 4 TUR
-http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/SrygDsS/bein-haber.png" group-title="Turquía", Bein Sports HABER TUR
-http://127.0.0.1:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.ibb.co/fvG2stM/foxsports.png" group-title="USA",FOX SPORTS 1 US
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
