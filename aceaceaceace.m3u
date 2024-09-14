@@ -128,9 +128,9 @@ acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 acestream://e454681a152a86da504e63694f17f90d0586867d
 
 #EXTINF:-1 tvg-id="FEFTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="FEFTV",FEFTV 1
-acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-id="FEFTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="FEFTV",FEFTV 2
-acestream://6af6ef2a1e14b58801a1176f88ea5e323fb0ac20
+acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="" group-title="Otros",M. Golf
 acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
