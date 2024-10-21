@@ -12,7 +12,7 @@ http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 2 720
 http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 3
-http://127.0.0.1:6878/ace/getstream?id=de52318ab15c921d8d5c036c5f33562382b5ae71
+http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
@@ -131,14 +131,14 @@ http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 
 #EXTINF:-1 tvg-id="FEFTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="FEFTV",FEFTV 1
-http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
+http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-id="FEFTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="FEFTV",FEFTV 2
-http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
+http://127.0.0.1:6878/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="" group-title="Otros",M. Golf
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="" group-title="Otros",M. Golf 2
-http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="" group-title="UK",Sky Sports Main Event UK
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
