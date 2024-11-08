@@ -55,37 +55,37 @@ http://127.0.0.1:6878/ace/getstream?id=307b6e84ca9620b3f7a13af143c9e4019752756a
 http://127.0.0.1:6878/ace/getstream?id=b545ed0de344cfb830721fb961fddb208d39d19a
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="" group-title="Movistar Deportes",Movistar Plus+
-http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos 720
-http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="" group-title="Otros",Ellas
 http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 720
-http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="" group-title="Movistar Deportes",M. Deportes 3
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+http://127.0.0.1:6878/ace/getstream?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="" group-title="Movistar Deportes",M. Deportes 4
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+http://127.0.0.1:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="" group-title="Movistar Deportes",M. Deportes 5
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="" group-title="Movistar Deportes",M. Deportes 6
-http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="" group-title="Movistar Deportes",M. Deportes 7
-http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
@@ -94,26 +94,26 @@ http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1 720
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2 720
-http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="DAZN 3" tvg-logo="" group-title="DAZN",DAZN 3
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="" group-title="DAZN",DAZN 4
-http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 720
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 2
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 2 720
-http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 3
 http://127.0.0.1:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e64
 
