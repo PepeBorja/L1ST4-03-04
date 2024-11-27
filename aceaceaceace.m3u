@@ -33,6 +33,8 @@ acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
+acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
@@ -96,11 +98,13 @@ acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
-acestream://5789ca155323664edd293b848606688edf803f4d
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 720
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1 720
@@ -149,9 +153,9 @@ acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="" group-title="Otros",M. Golf
-acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
+acestream://f41f1096862767289620be5bd85727f946a434db
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="" group-title="Otros",M. Golf 2
-acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
+acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="" group-title="UK",Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
