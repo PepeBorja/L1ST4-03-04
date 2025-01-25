@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.bevy.be/bevyfiles/unitedstates1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://xmltv.info/de/epg.xml"
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga
@@ -181,15 +181,15 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" tvg-logo="https://i.ibb.co/k2XVS6h/Bein3.png" group-title="Francia",beIN Sports 3 FRA
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 tvg-id="eleven-sport1-pt" tvg-logo="" group-title="Portugal",Eleven Sports 1 POR
+#EXTINF:-1 tvg-id="PT | DAZN 1" tvg-logo="" group-title="Portugal",Eleven Sports 1 POR
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="eleven-sport2-pt" tvg-logo="" group-title="Portugal",Eleven Sports 2 POR
+#EXTINF:-1 tvg-id="PT | DAZN 2" tvg-logo="" group-title="Portugal",Eleven Sports 2 POR
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="eleven-sport3-pt" tvg-logo="" group-title="Portugal",Eleven Sports 3 POR
+#EXTINF:-1 tvg-id="PT | DAZN 3" tvg-logo="" group-title="Portugal",Eleven Sports 3 POR
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="eleven-sport4-pt" tvg-logo="" group-title="Portugal",Eleven Sports 4 POR
+#EXTINF:-1 tvg-id="PT | DAZN 4" tvg-logo="" group-title="Portugal",Eleven Sports 4 POR
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="eleven-sport5-pt" tvg-logo="" group-title="Portugal",Eleven Sports 5 POR
+#EXTINF:-1 tvg-id="PT | DAZN 6" tvg-logo="" group-title="Portugal",Eleven Sports 5 POR
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="eleven-sport6-pt" tvg-logo="" group-title="Portugal",Eleven Sports 6 POR
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
