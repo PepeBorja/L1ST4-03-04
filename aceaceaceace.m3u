@@ -189,9 +189,9 @@ acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="PT | DAZN 4" tvg-logo="" group-title="Portugal",Eleven Sports 4 POR
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="PT | DAZN 6" tvg-logo="" group-title="Portugal",Eleven Sports 5 POR
+#EXTINF:-1 tvg-id="PT | DAZN 5" tvg-logo="" group-title="Portugal",Eleven Sports 5 POR
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="eleven-sport6-pt" tvg-logo="" group-title="Portugal",Eleven Sports 6 POR
+#EXTINF:-1 tvg-id="PT | DAZN 6" tvg-logo="" group-title="Portugal",Eleven Sports 6 POR
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1 tvg-id="DE | Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Alemania",Eurosport 1 GER
