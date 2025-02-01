@@ -157,22 +157,27 @@ acestream://f41f1096862767289620be5bd85727f946a434db
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="" group-title="Otros",M. Golf 2
 acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
-#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="" group-title="UK",Sky Sports Main Event UK
+#EXTINF:-1 tvg-id="UK | Sky Sport Main Event" tvg-logo="" group-title="UK",Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="" group-title="UK",Sky Sports Premier League UK
+#EXTINF:-1 tvg-id="UK | Sky Sport Premier League" tvg-logo="" group-title="UK",Sky Sports Premier League UK
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="" group-title="UK",Sky Sports Football UK
+#EXTINF:-1 tvg-id="UK | Sky Sport Football" tvg-logo="" group-title="UK",Sky Sports Football UK
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id="sky-sports-arena" tvg-logo="" group-title="UK",Sky Sports Arena UK
+#EXTINF:-1 tvg-id="UK | Sky Sport Arena" tvg-logo="" group-title="UK",Sky Sports Arena UK
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="bt-sport1" tvg-logo="" group-title="UK",TNT Sports 1 UK
+#EXTINF:-1 tvg-id="UK | TNT Sports 1" tvg-logo="" group-title="UK",TNT Sports 1 UK
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-id="bt-sport2" tvg-logo="" group-title="UK",TNT Sports 2 UK
+#EXTINF:-1 tvg-id="UK | TNT Sports 2" tvg-logo="" group-title="UK",TNT Sports 2 UK
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-id="bt-sport3" tvg-logo="" group-title="UK",TNT Sports 3 UK
+#EXTINF:-1 tvg-id="UK | TNT Sports 3" tvg-logo="" group-title="UK",TNT Sports 3 UK
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="bt-sport4" tvg-logo="" group-title="UK",TNT Sports 4 UK
+#EXTINF:-1 tvg-id="UK | TNT Sports 4" tvg-logo="" group-title="UK",TNT Sports 4 UK
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#EXTINF:-1 tvg-id="UK | Premier Sports 1" tvg-logo="" group-title="UK",Premier Sport 1 UK
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-id="UK | Premier Sports 2" tvg-logo="" group-title="UK",Premier Sport 2 UK
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" tvg-logo="https://i.ibb.co/CQNdqNG/Bein1.png" group-title="Francia",beIN Sports 1 FRA
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
