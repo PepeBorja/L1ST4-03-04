@@ -1,6 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://www.open-epg.com/files/germany3.xml.gz"
 
 
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga
@@ -30,11 +35,6 @@ acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 720
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
-
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
-acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
