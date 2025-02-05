@@ -294,6 +294,10 @@ acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-id="tvp1" tvg-logo="" group-title="Polonia", TVP 1 POL
 acestream://d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 tvg-id="eurosport1-pl" tvg-logo="" group-title="Polonia",Eurosport 1 POL
+acestream://314eb626864faf52e01624361bd6906b5406127f
+#EXTINF:-1 tvg-id="eurosport2-pl" tvg-logo="" group-title="Polonia",Eurosport 2 POL
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 
 #EXTINF:-1 tvg-id="ESPN 1.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/148.png" group-title="Paises Bajos",ESPN 1 HOL
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
