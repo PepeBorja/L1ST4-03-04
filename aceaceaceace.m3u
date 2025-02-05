@@ -88,6 +88,10 @@ acestream://be5e5d5840ca1c9e0dd91b53aef9b6b23c142088
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="" group-title="Movistar Deportes",Movistar Plus+
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos 720
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by Tronoss
 acestream://5317e5c61bba23fb731598367bf293156440318f
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by Tronoss
@@ -101,8 +105,6 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 acestream://f4a5545ab93ea29144debcbba87204b4f4a7ccf5
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Adrián
 acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 720
-acestream://3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2 by Tronoss
 acestream://7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2 by Adrián
