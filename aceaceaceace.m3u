@@ -233,8 +233,6 @@ acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="DE: DAZN 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Alemania",DAZN 2 GER
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-logo="" group-title="Alemania",Sport1 GER
-acestream://1950633a3723cb52b17c764125decc04445bd5ff
 #EXTINF:-1 tvg-id="DE | SPORT1+" tvg-logo="" group-title="Alemania",Sport1+ GER
 acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 tvg-id="DE | SPORTDIGITAL FUSSBALL" tvg-logo="" group-title="Alemania",SPORTDIGITAL FUSSBALL GER
