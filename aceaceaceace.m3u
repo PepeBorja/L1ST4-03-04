@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://iptvx.one/EPG_LITE, https://www.open-epg.com/files/germany3.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://www.open-epg.com/files/netherlands.xml, https://iptvx.one/EPG_LITE, https://www.open-epg.com/files/germany3.xml.gz"
 
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
@@ -289,10 +289,24 @@ acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-id="tvp1" tvg-logo="" group-title="Polonia", TVP 1 POL
 acestream://d31d828052a432246e59e7d0d640bd55a64f1859
 
-#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/99.png" group-title="Paises Bajos",Ziggo Sport
+#EXTINF:-1 tvg-id="ESPN 1.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/148.png" group-title="Paises Bajos",ESPN 1 HOL
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/474.png" group-title="Paises Bajos",Ziggo Sport 2
+#EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/468.png" group-title="Paises Bajos",ESPN 2 HOL
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-id="ESPN 3.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/469.png" group-title="Paises Bajos",ESPN 3 HOL
+acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
+#EXTINF:-1 tvg-id="ESPN 4.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/470.png" group-title="Paises Bajos",ESPN 4 HOL
+acestream://36dfc36084b2138d3451c4700b462ac1094d693d
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/99.png" group-title="Paises Bajos",Ziggo Sport HOL
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/474.png" group-title="Paises Bajos",Ziggo Sport 2 HOL
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/420.png" group-title="Paises Bajos",Ziggo Sport 3 HOL
+acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
+#EXTINF:-1 tvg-id="Ziggo Sport 4.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/490.png" group-title="Paises Bajos",Ziggo Sport 4 HOL
+acestream://36dfc36084b2138d3451c4700b462ac1094d693d
+#EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/419.png" group-title="Paises Bajos",Ziggo Sport 6 HOL
+acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="" group-title="Rusia",Матч! RU
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
