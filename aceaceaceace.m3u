@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://iptvx.one/EPG_NOARCH, https://www.open-epg.com/files/germany3.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://iptvx.one/EPG_LITE, https://www.open-epg.com/files/germany3.xml.gz"
 
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
