@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://www.open-epg.com/files/netherlands1.xml.gz, https://iptvx.one/EPG_LITE, https://www.open-epg.com/files/germany3.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.open-epg.com/files/unitedstates1.xml.gz, https://iptvx.one/EPG_LITE, https://www.open-epg.com/files/germany3.xml.gz"
 
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
@@ -343,23 +343,23 @@ acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="" group-title="Rusia", EuroSport 2 RU
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 
-#EXTINF:-1 tvg-id="ESPN 1.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/148.png" group-title="Paises Bajos",ESPN 1 HOL
+#EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/148.png" group-title="Paises Bajos",ESPN 1 HOL
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/468.png" group-title="Paises Bajos",ESPN 2 HOL
+#EXTINF:-1 tvg-id="espn2-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/468.png" group-title="Paises Bajos",ESPN 2 HOL
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-id="ESPN 3.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/469.png" group-title="Paises Bajos",ESPN 3 HOL
+#EXTINF:-1 tvg-id="espn3-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/469.png" group-title="Paises Bajos",ESPN 3 HOL
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
-#EXTINF:-1 tvg-id="ESPN 4.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/470.png" group-title="Paises Bajos",ESPN 4 HOL
+#EXTINF:-1 tvg-id="espn4-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/470.png" group-title="Paises Bajos",ESPN 4 HOL
 acestream://36dfc36084b2138d3451c4700b462ac1094d693d
-#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/99.png" group-title="Paises Bajos",Ziggo Sport HOL
+#EXTINF:-1 tvg-id="ziggo-sport1-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/99.png" group-title="Paises Bajos",Ziggo Sport HOL
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/474.png" group-title="Paises Bajos",Ziggo Sport 2 HOL
+#EXTINF:-1 tvg-id="ziggo-sport2-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/474.png" group-title="Paises Bajos",Ziggo Sport 2 HOL
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/420.png" group-title="Paises Bajos",Ziggo Sport 3 HOL
+#EXTINF:-1 tvg-id="ziggo-sport3-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/420.png" group-title="Paises Bajos",Ziggo Sport 3 HOL
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
-#EXTINF:-1 tvg-id="Ziggo Sport 4.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/490.png" group-title="Paises Bajos",Ziggo Sport 4 HOL
+#EXTINF:-1 tvg-id="ziggo-sport4-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/490.png" group-title="Paises Bajos",Ziggo Sport 4 HOL
 acestream://36dfc36084b2138d3451c4700b462ac1094d693d
-#EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/419.png" group-title="Paises Bajos",Ziggo Sport 6 HOL
+#EXTINF:-1 tvg-id="ziggo-sport6-nl" tvg-logo="https://tvgidsassets.nl/v352/img/channels/120x120/419.png" group-title="Paises Bajos",Ziggo Sport 6 HOL
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 
 #EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-logo="https://i.ibb.co/fvG2stM/foxsports.png" group-title="USA",FOX SPORTS 1 US
