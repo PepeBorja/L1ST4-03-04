@@ -109,16 +109,18 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 acestream://ae4caf67cb4de140acd49fa632137a2cfa46cc4b
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Adrián
 acestream://d80d6e2a4350bc9886fbb55a2149b3de3c057ddf
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2 by Tronoss
 acestream://7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2 by Adrián
 acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="" group-title="Movistar Deportes",M. Deportes 3
-#acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="" group-title="Movistar Deportes",M. Deportes 4
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="" group-title="Movistar Deportes",M. Deportes 5
-#acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="" group-title="Movistar Deportes",M. Deportes 6
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="" group-title="Movistar Deportes",M. Deportes 7
