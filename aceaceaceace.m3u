@@ -6,7 +6,7 @@ acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR by Tronoss
-acestream://1ca6d0fb0581443018670640d7e0ffeb14387004
+acestream://eb3fe9045283703e50f338428e22471350660015
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR by Adrián
 acestream://704d3d43e6aa360eb552501eb020793cab93175d
 
@@ -17,7 +17,7 @@ acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga
 acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga by Tronoss
-acestream://d5feb1c3a83b7e59f85ce5e6d0573c4bf36659ff
+acestream://0d130a990935c65910af5964d5f3dbce9dd63b05
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga 720
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 2
@@ -36,9 +36,9 @@ acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by Tronoss
-acestream://cc6823f25edb580a5b6b16f9afba0a73554e045f
+acestream://25fe7c7c63b382a77f79f8f912b11dde94ea89b7
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by Tronoss 
-acestream://93c17ef124fda47d8ecce00a1296c44453000a7b
+acestream://8e1f821dcf2d12c8001423d62c73cde356b5e9c0
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by Adrián
 acestream://27df9a17762aea1c6e256cf12ec262790deafef7
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 720
@@ -46,7 +46,7 @@ acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 by Tronoss
-acestream://8064caa14428902812c5dc4d3081d8bf0ee1350b
+acestream://db0c15253ddecbf356726f7218a38213c66d0ad1
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 720
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
@@ -57,9 +57,13 @@ acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by Unknown
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by Tronoss
-acestream://3bda575f7bab66443932709190453c31814fb90a
+acestream://eb47dd6510df6f6a6b4fdbb593681f2bee4bc773
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by Tronoss
+acestream://42a27b0e6ec5cf2663dad8a1e23af73f5aaf62e7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="" group-title="Champions",M+ Liga de Campeones 2 by Tronoss
-acestream://33703f45fdbc73b649112773d5a6a2f65f375d04
+acestream://d3faa1e424d6bede03028203c82cac69d1552944
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="" group-title="Champions",M+ Liga de Campeones 2 by Tronoss
+acestream://3f5bb406bcd0fe75074d300a27c7be8df9c19d8e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="" group-title="Champions",M+ Liga de Campeones 2 720
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="" group-title="Champions",M. Liga de Campeones 3 by Tronoss
@@ -69,9 +73,9 @@ acestream://0b348cc1ae499e810729661878764a0fab88ab69
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="" group-title="Champions",M. Liga de Campeones 4
 acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="" group-title="Champions",M. Liga de Campeones 4 by Tronoss
-acestream://bf1d83d16fa1b2930ec16a9d09d51e2bed533069
+acestream://8cea9ac3c2e1100bb07126ed2eb8a55b507a86f7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="" group-title="Champions",M. Liga de Campeones 5 by Tronoss
-acestream://e17f4ab7bbefb7bf0283382b5f3f5e352d6e8225
+acestream://936c8d82c034f3625521939935b1c4cc11aac257
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="" group-title="Champions",M. Liga de Campeones 6 by Tronoss
 acestream://db620edca5bd1f186d786b60258421f129ad6fb9
 
@@ -82,9 +86,9 @@ acestream://2542a8b98de5dde269f1f75a0314c97046dd2ecf
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by Adrián
 acestream://eb7d8167de122a09bba8a08c6933db2a41744998
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by Tronoos
-acestream://23f02ba817225232479d04bc11a13e886d7f799b
+acestream://4a2f4cd05015af4be3a61a55daec06339b9ed596
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by Tronoos
-acestream://be5e5d5840ca1c9e0dd91b53aef9b6b23c142088
+acestream://094d256765a176bbe46e09eea28e72ebceed18cd
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="" group-title="Movistar Deportes",Movistar Plus+
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
@@ -93,16 +97,16 @@ acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos 720
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by Tronoss
-acestream://5317e5c61bba23fb731598367bf293156440318f
+acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by Tronoss
 acestream://9692132869cf08fd8768d1240669eff8bb1129f7
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="" group-title="Movistar Deportes",Ellas Vamos by Tronoss
-acestream://a258f0572ae1432ae8d52162e586b116010679dc
+acestream://989dbe43fbf4def5d2e577ca8cea35ba9793b16d
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Unknown
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Tronoss
-acestream://f4a5545ab93ea29144debcbba87204b4f4a7ccf5
+acestream://ae4caf67cb4de140acd49fa632137a2cfa46cc4b
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Adrián
 acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2 by Tronoss
@@ -122,13 +126,15 @@ acestream://070f82d6443a52962d6a2ed9954c979b29404932
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1 by Tronoss
+acestream://52472b43317984ab70ea58326cd61f6f943bb593
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2 by Tronoss
-acestream://5f3658bd6f85f2d883afdbceaf9671c837f7c61c
+acestream://5c1e4bc4d62bfbb2e6cc0abf98db29358aec2479
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by Tronoss
-acestream://4918f3138d184d7b413f37f46bb6a082f0050561
+acestream://3563e97bd9253c3a46912e7ec8afb52592cacdb6
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by Tronoss
-acestream://7d3b62576b534fcae0d783128cacf43bc356230f
+acestream://9e232028581f9cd04234a86a799ddeb9854c02a9
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by Adrián
 acestream://0d7cccccdad350bef0ac65ec37bf55a18d4865a8
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 720
@@ -137,11 +143,13 @@ acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1 by Tronoss
-acestream://28e2f4bd236cbfc00503b975e8a51cfa95542bea
+acestream://bcb879c881f85f9ab6f5171b4566c67b1347cfc8
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2 by Unknown
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2 by Tronoss
+acestream://7bd69c94c90173f2f7cb8d465aeeb0123c89446a
 #EXTINF:-1 tvg-id="DAZN 3" tvg-logo="" group-title="DAZN",DAZN 3
 #acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 tvg-id="DAZN 3" tvg-logo="" group-title="DAZN",DAZN 3 by Unknown
@@ -150,6 +158,8 @@ acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="" group-title="DAZN",DAZN 4 by Unknown
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="" group-title="DAZN",DAZN 4 by Tronoss
+acestream://022e55502708fec364379dfdbf5b2556188eba41
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
