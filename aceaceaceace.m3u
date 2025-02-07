@@ -154,12 +154,13 @@ acestream://4c8a9cd2090cacff69ed64926e0f6e91366903e2
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 720
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 
-#EXTINF:-1 tvg-id="DAZN 1 BAR" tvg-logo="" group-title="DAZN",DAZN 1 BAR by Tronoss
-acestream://0908f5dd264ded10b638636cb7479409cfee0813
+
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1 by Tronoss
 acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1 by Tronoss
+acestream://0908f5dd264ded10b638636cb7479409cfee0813
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2 by Unknown
@@ -200,13 +201,6 @@ acestream://f93741dc38bac456018fe9906a4689c2c6405716
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-id="FEFTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" group-title="FEFTV",FEFTV 2
 acestream://8677d339ecddd75165c0015025f598b6215974cf
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="UFC",UFC TV
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="UFC",UFC TV
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="UFC",UFC TV
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="" group-title="UK",Tennis Channel
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
@@ -339,6 +333,13 @@ acestream://73ff07648e367efebd94636047b07625f664a082
 
 #EXTINF:-1 tvg-id="canal-pl-sport-cz" tvg-logo="" group-title="Chequia",Canal+ Sports 1 CHE
 acestream://0fa7ec04a9391afc9e3aa0f3065f72220ae16781
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="UFC",UFC TV
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="UFC",UFC TV
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="UFC",UFC TV
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="" group-title="Rusia",Матч! RU
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
