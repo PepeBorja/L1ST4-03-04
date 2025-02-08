@@ -111,6 +111,8 @@ acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="" group-title="Movistar Deportes",Ellas Vamos by Tronoss
 acestream://e871097e11dc05086e945bd715e854be3c3c4082
 
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Unknown
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Tronoss
