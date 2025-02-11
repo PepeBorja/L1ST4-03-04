@@ -155,9 +155,9 @@ acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2 by Tronoss
 acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAZN F1",DAZN BAR 1 by Tronoss
+#EXTINF:-1 tvg-id="" tvg-logo="LaLiga TV BAR 2" group-title="DAZN F1",DAZN BAR 1 by Tronoss
 acestream://0908f5dd264ded10b638636cb7479409cfee0813
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAZN F1",DAZN BAR 2 by Tronoss
+#EXTINF:-1 tvg-id="" tvg-logo="LaLiga TV BAR 3" group-title="DAZN F1",DAZN BAR 2 by Tronoss
 acestream://17dc260a6b6c176183807e659817b647ddca465b
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by Tronoss
