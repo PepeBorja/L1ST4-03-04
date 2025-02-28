@@ -5,12 +5,6 @@
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR by New Era
-acestream://40e875aa616d2e9762f6adeda0d067afbebb24eb
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="" group-title="LaLiga",LaLiga TV BAR by New Era
-acestream://355256c0cc375879e22f93142a5aa9d8e0e42a3c
-#EXTINF:-1 tvg-id="LaLiga TV BAR 2" tvg-logo="" group-title="LaLiga",LaLiga TV BAR 2 by New Era
-acestream://ed05ac2974e4e91d52e8a4e7b8ce5cd7afae131e
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga
 acestream://94d34491106e00394835c8cb68aa94481339b53f
@@ -18,28 +12,14 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga
 acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga by New Era
-acestream://f70e59be6ac2307e5c893b8f6345f16825ebcfe7
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga by New Era
-acestream://6381de4582d868d12ae57fc00f41c92f89d1876f
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga by New Era
-acestream://f8683f2afcb639ab4f1b250452fd946779a9ef3a
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga by New Era III
-acestream://11efea276121f861054d0b1525dda0ff60d5c3d5
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga by New Era III
-acestream://7c70daff87373a903d92490ad3dc811723969e08
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="" group-title="LaLiga",M. LaLiga 720
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 2
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 2 by New Era
-acestream://8d60b74fd870c709f71a71d6aa76e12dc0468258
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 2 720
 acestream://f31a586422c9244196c810c84b6c85da350318a5
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 3
 acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
-#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 3 by New Era
-acestream://06b777b7327e5f2a1d008411fc19b2a768b80e7a
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="" group-title="LaLiga",M. LaLiga 3 720
 acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
 
@@ -49,24 +29,10 @@ acestream://110d441ddc9713a7452588770d2bc85504672f47
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by New Era
-acestream://a8c2172268eb168dc5ab00a69fed238ca73a0008
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by New Era
-acestream://6af2f3a87ae20480dea6ef574dbec169fbd1099f
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by New Era 
-acestream://2c2f6024a6a68f69d00144f830fd989317271530
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by New Era II
-acestream://b5f549da9cafaffab01fb04567ce8a5ad4416b5c
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga by New Era III
-acestream://a5144874f66a0872fd0b5a484cd426eb7d8eaa26
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 720
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 by New Era
-acestream://0cc35849c46a99954b3944089c6384ed4944ba00
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 by New Era
-acestream://e0593bbb3023cd36f003e3b4f8f256c7f1f4f1b5
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 720
 acestream://9bcf45be21e73b16e95334a5b2c3240dc1ed43ae
 
@@ -75,92 +41,84 @@ acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by Unknown
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by New Era
-acestream://e57b117bda8d5ca91ccfd8b5ed853c396ff7f67a
+acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by New Era
-acestream://ccd343d56e3804cb94f19495595fb74f5a7fb687
+acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by New Era
-acestream://6f65182b200e3833fa1fdda791ba5d965a6a5ea7
+acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by New Era
-acestream://05178312d29cd206a2f81262d896ed872f0555f8
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by New Era
-acestream://41b7ce31e38e4bbf3ac730d663b71725673ace50
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by New Era II
-acestream://ee5ffa2c47cad5f00276904722e9d234def6f14a
+acestream://05057e832dd1530c7d5e8b0857fee6826243a243
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="" group-title="Champions",M+ Liga de Campeones 2 by New Era
-acestream://0395a739cf097419d619e5fbabc43ee3d8ea16e1
+acestream://deb8972491e3817ba2335662d7855d2c2c05a900
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="" group-title="Champions",M+ Liga de Campeones 2 by New Era
-acestream://8a78a66a77b451462d4e5c085f599f12491d6112
+acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="" group-title="Champions",M+ Liga de Campeones 2 by New Era
-acestream://221a57380a464b67d1a7188ecf67bab1d6f54e4e
+acestream://0adc3b525508b4a74ce65685870894a77401afb7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="" group-title="Champions",M+ Liga de Campeones 2 by New Era
-acestream://1eb9a89d84c1b7ad5b9986fc7faf6c49ea0c82f6
+acestream://f7fa79fdad436e969a82389a062a74564e91b10e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="" group-title="Champions",M. Liga de Campeones 3 by New Era
-acestream://f2b4241965ce37293ea16e9b5721dda0613d73e6
+acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="" group-title="Champions",M. Liga de Campeones 3 by New Era
-acestream://56e98000e32d18142590446bc7e54089ba9612c9
+acestream://4d754e0b6b583d01668de8544c43cad6a1b253da
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="" group-title="Champions",M. Liga de Campeones 3 by New Era
-acestream://450f4a0b7a4dd159afee8903ddb47fb1f708e439
+acestream://509e91774b5b2d0af80883c8d4217c3b53235231
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="" group-title="Champions",M. Liga de Campeones 4 by New Era
-acestream://58f574de6592711b2ea57efff5045e443af8fcbf
+acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="" group-title="Champions",M. Liga de Campeones 4 by New Era
-acestream://1ad2d7054479761ea08964121d3271d4f529f6fb
+acestream://7a5512d101742eb418dd0e3ffbd2bf6c43c73452
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="" group-title="Champions",M. Liga de Campeones 5 by New Era
-acestream://ce719f5cc52a9ae3157a084e78301a577355aa8e
+acestream://47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="" group-title="Champions",M. Liga de Campeones 5 by New Era
-acestream://c0163ea8ab93eeac88ffc5315f66f9ae5a125310
+acestream://7c3791bfaf9b4b215cc63fa2d61902f9bf3da7ff
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="" group-title="Champions",M. Liga de Campeones 6 by New Era
-acestream://4ddc5b5dc6214e460d55baddaaefedac67804c69
+acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
 
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by New Era
-acestream://1c552ef4abf91ca8136162eada4812e415b4470a
+acestream://20d44589bc1e51ffb60d2cd98fb24019c6736772
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by New Era
-acestream://0831719d569127c46ee1fcf2389cef6810e4118d
+acestream://c0d688a5045c5446c35f802a567ac3f0fa72b4b6
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by New Era
-acestream://241e2f44ede3cc63c203c031da73e0e0d897da33
+acestream://2dcc9fa21935872130029206395a12cd10533a75
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by New Era
-acestream://1e2e2425b964391b690d1d1be328fb148e19b4bd
-#EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Copa del Rey by New Era
-acestream://54a2457e105a97c636759307d1e8131390674402
+acestream://c0803ffef120a6ec036329ce3fe2e95018cc5958
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="" group-title="Movistar Deportes",Movistar Plus+
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="" group-title="Movistar Deportes",Movistar Plus+ by New Era
-acestream://bfe31404165313d722e19243f55402c699be489f
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-logo="" group-title="Movistar Deportes",Movistar Plus+ 2 by New Era
-acestream://dc134720deb65c9bb8f2cd2157dd5217101215a9
+acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos 720
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by New Era
-acestream://79419383248b3b8e9d2b4945c551b9fc19de4e9a
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by New Era
-acestream://ab42fb57e3b30d0dac87d1ddc3eaeb7e5b0f2d62
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by New Era
-acestream://aff68366395db9735fc1ddb03ed642adb72fc6f3
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="" group-title="Movistar Deportes",Vamos by New Era II
-acestream://a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="" group-title="Movistar Deportes",Ellas Vamos by New Era
+acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by Unknown
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by New Era
-acestream://90b662a88120d29d7dbb110552cccf0bb2ebb1c1
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by New Era
-acestream://aef3a4058ecb01e912db6f155ab1daf6775004a7
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by New Era
-acestream://5375b06881a4edf82841a0626df288d8a55cbfd5
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes by New Era II
-acestream://d08f78bd69c9c5cd927c4431632660bb9994727c
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2 by New Era
-acestream://9a8d22e71f9f1d0c34394fa9656003e2f28c7c7e
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="" group-title="Movistar Deportes",M. Deportes 2 by New Era
+acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="" group-title="Movistar Deportes",M. Deportes 3 by New Era
-acestream://22d56465972141cf8ee0bb640e0b8cf28d292aa6
+acestream://985896872c52d04030c112ca99584046d022a349
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="" group-title="Movistar Deportes",M. Deportes 4 by New Era
-acestream://7d509cfd721e1af5d60ba17803a29b0040f04262
+acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="" group-title="Movistar Deportes",M. Deportes 5 by New Era
-acestream://a8aa33d6fc023f3642adaee0345b96d47439ffd1
+acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="" group-title="Movistar Deportes",M. Deportes 6
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="" group-title="Movistar Deportes",M. Deportes 7
@@ -169,11 +127,9 @@ acestream://070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1 by New Era
-acestream://6b7a45da76f97af5e70bb46db52d4844ae7cf697
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Eurosport",Eurosport 1 by New Era
-acestream://03a8dc599efe8dc70b00358af8ab85faf0786627
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2 by New Era
-acestream://9a463c68f832626582455d4689c0a958aa26dc34
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1
 acestream://d6281d4e6310269b416180442a470d23a4a99dc9
@@ -184,55 +140,47 @@ acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 720
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by New Era
-acestream://95341c265b7abfc7ea4f1edd45a65412e71756a3
+acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by New Era
-acestream://468cf58e5725cf1de10771c2aaba450b04b263de
+acestream://5d8613b5fde87f366bb5e41ac8011007a4c6bd3c
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by New Era
-acestream://b2837ff86e516e755de8374bfab084df6c585680
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DAZN F1",DAZN F1 by New Era II
-acestream://a49cc29b6ded47ae5430c488d2a288aed1608ecd
+acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="" group-title="DAZN",DAZN 1 by Unknown
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="" group-title="DAZN",DAZN 1 by New Era
-acestream://4ca7d2ac427a515bc2c51713364fd80c7129c6d0
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="" group-title="DAZN",DAZN 1 by New Era
-acestream://7dccacd74431a5eed7ab1aab67b3f34526860ea8
+acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="" group-title="DAZN",DAZN 1 by New Era
-acestream://01ecb65666bc476239a6162089fd267dad07c9f6
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="" group-title="DAZN",DAZN 1 by New Era II
-acestream://ef1e0c8799b331efe144a91317e35b064c54ec0c
+acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="" group-title="DAZN",DAZN 2 by Unknown
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="" group-title="DAZN",DAZN 2 by New Era
-acestream://fc4ef02e1b31bddab4f390d5bee7a38512a06ad7
+acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="" group-title="DAZN",DAZN 2 by New Era
-acestream://abe7e2dc50da5f74956135c655c5c501022c3a32
+acestream://57e38ef7eaab5596559415bdf96926ee4115c5ce
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="" group-title="DAZN",DAZN 3 by Unknown
 acestream://b11dd020fc6e89b39b69c1f3bef032be72286e72
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="" group-title="DAZN",DAZN 3 by New Era
-acestream://f84b575366a2615f418791a0615ab1f9787b5ee1
+acestream://c34a6552886fad4627ea36947fdec3e46e4e3b08
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="" group-title="DAZN",DAZN 3 by New Era
-acestream://fbc21019d049082da084c6d93442cb083b5d45e4
+acestream://5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="" group-title="DAZN",DAZN 4 by Unknown
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="" group-title="DAZN",DAZN 4 by New Era
-acestream://66ef207f4852f062188efcff9f4bd57200335bd6
+acestream://5e5b670d44e4f23a49ebe1770458066ac2cf58e3
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="" group-title="DAZN",DAZN 4 by New Era
-acestream://6717363abbdd2cfe0e443e146ac47c379078ffce
+acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 720
 acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion by New Era
-acestream://36ddbf6b7374754211eac2ec3aa9519b7abb3041
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 2
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 2 720
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 2 by New Era
-acestream://219ade59539025e7f04bd6807de963944608051e
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="" group-title="Laliga Hypermotion",LaLiga Hypermotion 3
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 
