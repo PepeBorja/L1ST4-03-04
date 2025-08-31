@@ -29,6 +29,9 @@ acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="" group-title="LaLiga",DAZN LaLiga 2 720
 acestream://c976c7b37964322752db562b4ad65515509c8d36
 
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="" group-title="Primera Federacion",Primera Federacion by New Era
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by Unknown
 acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="" group-title="Champions",M. Liga de Campeones by Unknown
