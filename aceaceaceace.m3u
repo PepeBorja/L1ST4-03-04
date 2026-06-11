@@ -9,6 +9,15 @@ acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
 #EXTINF:-1 tvg-id="DAZN Mundial 4" tvg-logo="" group-title="Mundial",DAZN Mundial 4
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 
+#EXTINF:-1 tvg-id="FR · beIN SPORTS 1" tvg-logo="https://i.ibb.co/CQNdqNG/Bein1.png" group-title="Mundial",Mundial en Frances
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="tvp-sport" tvg-logo="" group-title="Mundial",Mundial en Polaco
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="" group-title="Mundial",Mundial en Ruso
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="" group-title="Mundial",Mundial en Ruso
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="" group-title="Mundial",Direct Sport 1
 acestream://1b25b195b1b84d4b96830410657718e9e275ad49
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="" group-title="Mundial",Direct Sport +
